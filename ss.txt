@@ -1,599 +1,597 @@
 {
-"Ö©Öë": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/spider0601.txt",
-
-¡°ÍøÕ¾¡±£º[
-{"key":"csp_77","name":"¿áÔÆÆßÆß¡²P¡³","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"¿É¹ıÂËµÄ¡°£º1}£¬
-{"key":"csp_Zxzj","name":"ÔÚÏßÖ®¼Ò¡²P¡³","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable ":1},    
-{"key": "csp_DiDuan" ,"name":"µÍ¶ËÓ°ÊÓ¡²P¡³","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable ":0},
-{"key":"csp_CZSPP","name":"³§³¤×ÊÔ´¡²P¡³","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable ":0},
-{"key": "csp_DY1990" ,"name":"¾ÅÁãÓ°ÊÓ¡²P¡³","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable ":0},
-{"key": "csp_LiteApple" ,"name":"Æ»¹ûÓ°ÊÓ¡²P¡³","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable" :1},
-{"key": "csp_Auete" ,"name":"Auete¡²P¡³","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable": 1},
-{"key": "csp_Cokemv" ,"name":"Cokemv¡²P¡³","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable": 1},
-{"key":"csp_xpath_libv","name":"LIBVIO£¨X£©","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/libv.json"},
-{"key":"csp_xpath_zxzj2","name":"ÔÚÏßÖ®¼Ò£¨X£©","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable ":1,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/zxzj2.json"},
-{"key":"csp_biubiu_Õæ²»¿¨zhenbuka3","name":"Õæ²»¿¨1(NS)£¨B£©","type":3,"api":"csp_XBiubiu","searchable":1 ,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/Õæ²»¿¨zhenbuka3(ns).json"},
-{"key":"csp_biubiu_Õæ²»¿¨cerrd","name":"Õæ²»¿¨2(NS)£¨B£©","type":3,"api":"csp_XBiubiu","searchable":1 ,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/Õæ²»¿¨cerrd(ns).json"},
-{"key":"csp_biubiu_ÆæÓÅÓ°Ôºns","name":"ÆæÓÅÓ°Ôº(NS)£¨B£©","type":3,"api":"csp_XBiubiu","searchable":1, "quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/ÆæÓ°ÔºÓÅ(ns).json"},  
-{"key":"csp_biubiu_ºÚºüÓ°ÊÓns","name":"ºÚºüÓ°ÊÓ(NS)£¨B£©","type":3,"api":"csp_XBiubiu","searchable":1, "quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/ºÚºüÓ°ÊÓ(ns).json"},  
-{"key":"csp_biubiu_GAOAA","name":"GAOAA£¨B£©","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/bb/GAOAA.json"},
+  "sites": [
+{"key":"csp_77","name":"é…·äº‘ä¸ƒä¸ƒã€”Pã€•","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"å¯è¿‡æ»¤çš„â€œï¼š1}ï¼Œ
+{"key":"csp_Zxzj","name":"åœ¨çº¿ä¹‹å®¶ã€”Pã€•","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable ":1},    
+{"key": "csp_DiDuan" ,"name":"ä½ç«¯å½±è§†ã€”Pã€•","type":3,"api":"csp_DiDuan","searchable":1,"quickSearch":1,"filterable ":0},
+{"key":"csp_CZSPP","name":"å‚é•¿èµ„æºã€”Pã€•","type":3,"api":"csp_CZSPP","searchable":1,"quickSearch":1,"filterable ":0},
+{"key": "csp_DY1990" ,"name":"ä¹é›¶å½±è§†ã€”Pã€•","type":3,"api":"csp_DY1990","searchable":1,"quickSearch":1,"filterable ":0},
+{"key": "csp_LiteApple" ,"name":"è‹¹æœå½±è§†ã€”Pã€•","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable" :1},
+{"key": "csp_Auete" ,"name":"Aueteã€”Pã€•","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable": 1},
+{"key": "csp_Cokemv" ,"name":"Cokemvã€”Pã€•","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable": 1},
+{"key":"csp_xpath_libv","name":"LIBVIOï¼ˆXï¼‰","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable": 1,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/libv.json"},
+{"key":"csp_xpath_zxzj2","name":"åœ¨çº¿ä¹‹å®¶ï¼ˆXï¼‰","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable ":1,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/xpath/zxzj2.json"},
+{"key":"csp_biubiu_çœŸä¸å¡zhenbuka3","name":"çœŸä¸å¡1(NS)ï¼ˆBï¼‰","type":3,"api":"csp_XBiubiu","searchable":1 ,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/çœŸä¸å¡zhenbuka3(ns).json"},
+{"key":"csp_biubiu_çœŸä¸å¡cerrd","name":"çœŸä¸å¡2(NS)ï¼ˆBï¼‰","type":3,"api":"csp_XBiubiu","searchable":1 ,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/çœŸä¸å¡cerrd(ns).json"},
+{"key":"csp_biubiu_å¥‡ä¼˜å½±é™¢ns","name":"å¥‡ä¼˜å½±é™¢(NS)ï¼ˆBï¼‰","type":3,"api":"csp_XBiubiu","searchable":1, "quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/å¥‡å½±é™¢ä¼˜(ns).json"},  
+{"key":"csp_biubiu_é»‘ç‹å½±è§†ns","name":"é»‘ç‹å½±è§†(NS)ï¼ˆBï¼‰","type":3,"api":"csp_XBiubiu","searchable":1, "quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/biubiu/é»‘ç‹å½±è§†(ns).json"},  
+{"key":"csp_biubiu_GAOAA","name":"GAOAAï¼ˆBï¼‰","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable": 0,"ext":"https://raw.githubusercontents.com/liu673cn/mao/main/sub/bb/GAOAA.json"},
     //
-{"key":"??523 ×ÊÔ´","name":"??523 ×ÊÔ´","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??Ë¿Íà×ÊÔ´","name":"??Ë¿Íà×ÊÔ´","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/", ¡°¿ÉËÑË÷¡±£º0£¬¡°¿ìËÙËÑË÷¡±£º0}£¬
-{"key":"??Ã¢¹û×ÊÔ´","name":"??Ã¢¹û×ÊÔ´","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/", ¡°¿ÉËÑË÷¡±£º0£¬¡°¿ìËÙËÑË÷¡±£º0}£¬
-{"key":"??ÀÖÓã×ÊÔ´","name":"??ÀÖÓã×ÊÔ´","type":1,"api":"https://www.leyuzyapi.com/inc/apijson_vod.php" ,"¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??Ë®ÃÛÌÒ","name":"??Ë®ÃÛÌÒ","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/", ¡°¿ÉËÑË÷¡±£º0£¬¡°¿ìËÙËÑË÷¡±£º0}£¬
-{"key":"??ĞãÉ«×ÊÔ´","name":"??ĞãÉ«×ÊÔ´","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/ ","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??Ì½Ì½×ÊÔ´","name":"??Ì½Ì½×ÊÔ´","type":1,"api":"https://apittzy.com/api.php/provide/vod/ ","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??É«Ã¨×ÊÔ´","name":"??É«Ã¨×ÊÔ´","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php" ,"¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??²İİ®×ÊÔ´","name":"??²İİ®×ÊÔ´","type":1,"api":"https://caiji.caomeiapi.com/inc/apijson_vod.php","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??°®¿´×ÊÔ´","name":"??°®¿´×ÊÔ´","type":1,"api":"http://www.aikanzyz9.com/inc/apijson_vod.php" ,"¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??»¨¿ı×ÊÔ´","name":"??»¨¿ı×ÊÔ´","type":1,"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??ÆÏÌÑ×ÊÔ´","name":"??ÆÏÌÑ×ÊÔ´","type":1,"api":"https://api.putaozy.net/inc/apijson_vod.php","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??É«ÎÑ×ÊÔ´","name":"??É«ÎÑ×ÊÔ´","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/ ","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??ÒùÎÑ×ÊÔ´","name":"??ÒùÎÑ×ÊÔ´","type":1,"api":"https://api.yinwoapi.com/api.php/provide/ vod/","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??4000 ×ÊÔ´","name":"??4000 ×ÊÔ´","type":1,"api":"https://www.4000zy.com/inc/apijson_vod.php","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??´óµñ×ÊÔ´","name":"??´óµñ×ÊÔ´","type":1,"api":"http://www.caobi209.vip/api.php/provide/ vod/","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??É«ŒÅË¿×ÊÔ´","name":"??É«ŒÅË¿×ÊÔ´","type":0,"api":"http://sdszyapi.com/home/cjapi/asbb/mc10/ vod/xml","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??Ğ¡½ã½ã×ÊÔ´","name":"??Ğ¡½ã½ã×ÊÔ´","type":0,"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/ vod/xml","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??52AVAV","name":"??52AVAV","type":0,"api":"https://52zyapi.com/home/cjapi/asda/mc10/vod/xml" ,"¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??Ë®Á±¶´×ÊÔ´","name":"??Ë®Á±¶´×ÊÔ´","type":1,"api":"https://www.sldcaiji.com/home/cjapi/ s6da/mc10/vod/json","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??ÎÒÒªÅ¾Å¾","name":"??ÎÒÒªÅ¾Å¾","type":0,"api":"http://www.caiji21.com/home/cjapi/ klkl/mc10/vod/xml","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??AV¼¯ÖĞÒù","name":"??AV¼¯ÖĞÒù","type":0,"api":"https://www.caiji22.com/home/cjapi/klp0/ mc10/vod/xml","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??Ò¹ß£×ÊÔ´","name":"??Ò¹ß£×ÊÔ´","type":0,"api":"https://www.caiji23.com/home/cjapi/ kls6/mc10/vod/xml","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??´óŒÅË¿×ÊÔ´","name":"??´óŒÅË¿×ÊÔ´","type":0,"api":"http://www.caiji24.com/home/cjapi/p0d2/ mc10/vod/xml","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??ßäßä×ÊÔ´","name":"??ßäßä×ÊÔ´","type":0,"api":"http://www.caiji25.com/home/cjapi/p0as/ mc10/vod/xml","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??±«ÓãAV","name":"??±«ÓãAV","type":0,"api":"http://caiji26.com/home/cjapi/p0g8/mc10/vod/ xml","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??¾«Á¶¹¤³§×ÊÔ´","name":"??¾«Á¶¹¤³§×ÊÔ´","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc10/ vod/xml","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??µã??ÓéÀÖ","name":"??µã??ÓéÀÖ","type":0,"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/ xml","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??ÒùÈËÆŞ×ÊÔ´","name":"??ÒùÈËÆŞ×ÊÔ´","type":1,"api":"http://www.yrqcaiji.com/home/cjapi/s6c7/ mc10/vod/json","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??Ğ¡´¦Å®×ÊÔ´","name":"??Ğ¡´¦Å®×ÊÔ´","type":1,"api":"http://xcncaiji.com/home/cjapi/s6bb/mc10/ vod/json","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??´óMM×ÊÔ´","name":"??´óMM×ÊÔ´","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/ mc10/vod/xml","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??»Æ¹ÏµçÊÓ×ÊÔ´","name":"??»Æ¹ÏµçÊÓ×ÊÔ´","type":0,"api":"https://www.caiji10.com/home/cjapi/cfs6/ mc10/vod/xml","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??¿ì²¥ºĞ×Ó×ÊÔ´","name":"??¿ì²¥ºĞ×Ó×ÊÔ´","type":0,"api":"https://www.caiji09.com/home/cjapi/ cfp0/mc10/vod/xml","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??´óÏã½¶×ÊÔ´","name":"??´óÏã½¶×ÊÔ´","type":0,"api":"https://www.caiji08.com/home/cjapi/cfkl/ mc10/vod/xml","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??ÈÕ±¾AVÔÚÏß","name":"??ÈÕ±¾AVÔÚÏß","type":0,"api":"https://www.caiji07.com/home/cjapi/cfcf/ mc10/vod/xml","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??¾Ã¾ÃÈÈÔÚÏß","name":"??¾Ã¾ÃÈÈÔÚÏß","type":0,"api":"https://www.caiji06.com/home/cjapi/cfbb/ mc10/vod/xml","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??ÇàÇà²İÊÓÆµ","name":"??ÇàÇà²İÊÓÆµ","type":0,"api":"https://www.caiji05.com/home/cjapi/cfda/ mc10/vod/xml","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??Âé¶¹ÊÓÆµ","name":"??Âé¶¹ÊÓÆµ","type":0,"api":"https://www.caiji04.com/home/cjapi/cfc7/ mc10/vod/xml","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??Ò»±¾µÀ×ÊÔ´","name":"??Ò»±¾Ò»±¾µÀ×ÊÔ´","type":0,"api":"https://www.caiji03.com/home/cjapi/cfg8/ mc10/vod/xml","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??²İÁñÊÓÆµ","name":"??²İÁñÊÓÆµ","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/ vod/xml","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??ÑÇÖŞ³ÉÈËÔÚÏß","name":"??ÑÇÖŞ³ÉÈËÔÚÏß","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/ mc10/vod/xml","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??ÌìààÀ²×ÊÔ´","name":"??ÌìààÀ²×ÊÔ´","type":0,"api":"http://www.987caiji.com/api/max. php","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??99 ×ÊÔ´","name":"??99 ×ÊÔ´","type":1,"api":"http://99zy.pw/api.php/provide/vod/", ¡°¿ÉËÑË÷¡±£º0£¬¡°¿ìËÙËÑË÷¡±£º0}£¬
-{"key":"??010°®×ÊÔ´","name":"??010°®×ÊÔ´","type":0,"api":"http://www.010aizy.com/API/macs.php" ,"¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??³ÕººÍÅÍÅ³¤","name":"??³ÕººÍÅÍÅ","type":1,"api":"https://javcaptain.com/api.php/provide/vod/", ¡°¿ÉËÑË÷¡±£º0£¬¡°¿ìËÙËÑË÷¡±£º0}£¬
-{"key":"??¶¶ÒõÊÓÆµ","name":"??¶¶ÒõÊÓÆµ","type":1,"api":"https://www.888dav.com/api.php/provide/ vod/","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??Âé¶¹ÊÓÆµ2","name":"??Âé¶¹ÊÓÆµ2","type":1,"api":"https://madouse.la/api.php/provide/ vod/","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??91Âé¶¹","name":"??91Âé¶¹","type":1,"api":"https://91md.me/api.php/provide/vod/ ","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??99 ×ÊÔ´°É","name":"??99 ×ÊÔ´°É","type":1,"api":"http://99zyba.com/api.php/provide/vod/ ","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??°®²Ù×ÊÔ´","name":"??°®²Ù×ÊÔ´","type":1,"api":"https://aicaozy.com/api.php/provide/vod/ ","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??ÀË³±×ÊÔ´","name":"??ÀË³±×ÊÔ´","type":1,"api":"http://langchaozy6.com/api.php/provide/vod/", ¡°¿ÉËÑË÷¡±£º0£¬¡°¿ìËÙËÑË÷¡±£º0}£¬
-{"key":"??ËÙ²¥×ÊÔ´","name":"??ËÙ²¥×ÊÔ´","type":1,"api":"https://api.suboapi.com/api.php/provide/ vod/","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??¿á¶¹×ÊÔ´","name":"??¿á¶¹×ÊÔ´","type":1,"api":"https://kudouzy.com/api.php/provide/vod/ ","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??¿á¶¹2","name":"??¿á¶¹2","type":1,"api":"https://api.kdapi.info/api.php/provide/ vod/","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??¿áÂ×Àí","name":"??¿áÂ×Àí","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/ ","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??Ó°¿â×ÊÔ´","name":"??Ó°¿â×ÊÔ´","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/ ","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??ÍòÓ°É«","name":"??ÍòÓ°É«","type":1,"api":"https://wanying4.com/api.php/provide/vod/ ","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??ÒøÁú×ÊÔ´","name":"??ÒøÁú×ÊÔ´","type":1,"api":"https://yinlong.tv/api.php/provide/vod/ ","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??ÄÌ²è×ÊÔ´","name":"??ÄÌ²è×ÊÔ´","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??°®²¥×ÊÔ´","name":"??°®²¥×ÊÔ´","type":1,"api":"https://cj.apiabzy.com/api.php/provide/ vod/","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??ÃÀÉÙÅ®×ÊÔ´","name":"??ÃÀÉÙÅ®×ÊÔ´","type":0,"api":"https://www.msnii.com/api/xml.php" ,"¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??ÒùË®»ú×ÊÔ´","name":"??ÒùË®»ú×ÊÔ´","type":0,"api":"https://www.xrbsp.com/api/xml.php" ,"¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??ÏãÄÌ¶ù×ÊÔ´","name":"??ÏãÄÌ¶ù×ÊÔ´","type":0,"api":"https://www.gdlsp.com/api/xml. php","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??°×æÎ×ÊÔ´","name":"??°×æÎ×ÊÔ´","type":0,"api":"https://www.kxgav.com/api/xml.php" ,"¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??Ğ¡ÊªÃÃ×ÊÔ´","name":"??Ğ¡ÊªÃÃ×ÊÔ´","type":0,"api":"https://www.afasu.com/api/xml. php","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??»ÆAV×ÊÔ´","name":"??»ÆAV×ÊÔ´","type":1,"api":"https://www.pgxdy.com/api/json.php" ,"¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??´óµØ×ÊÔ´","name":"??´óµØ×ÊÔ´","type":0,"api":"https://dadiapi.com/api.php","searchable":0 "¿ìËÙËÑË÷":0},
-{"key":"??CK×ÊÔ´","name":"??CK×ÊÔ´","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/ ","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??ÀÏÑ¼×ÊÔ´","name":"??ÀÏÑ¼×ÊÔ´","type":1,"api":"https://api.apilyzy.com/api.php/provide/ vod/","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??ÀÏÑ¼TV","name":"??ÀÏÑ¼TV","type":1,"api":"https://laoyatv.com/api.php/provide/vod/ ","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??»¨½·×ÊÔ´","name":"??»¨½·×ÊÔ´","type":1,"api":"https://apihjzy.com/api.php/provide/vod/", ¡°¿ÉËÑË÷¡±£º0£¬¡°¿ìËÙËÑË÷¡±£º0}£¬
-{"key":"??À±½·×ÊÔ´","name":"??À±½·×ÊÔ´","type":1,"api":"https://apilj.com/api.php/provide/vod/at/ json/","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??ÀÖ²¥×ÊÔ´","name":"??ÀÖ²¥×ÊÔ´","type":1,"api":"https://lbapi9.com/api.php/provide/vod/ ","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{¡°¼ü¡±£º¡°??²©ÌìÌÃ¡±£¬¡°Ãû³Æ¡±£º¡°??²©ÌìÌÃ¡±£¬¡°ÀàĞÍ¡±£º0£¬¡°api¡±£º¡°http://bttcj.com/inc/sapi.php¡±£¬¡°¿ÉËÑË÷¡± :0,"¿ìËÙËÑË÷":0},
-{"key":"??»·ÑÇ×ÊÔ´","name":"??»·ÑÇ×ÊÔ´","type":0,"api":"http://wmcj8.com/inc/sapi.php","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??JAVÃûÓÅ¹İ","name":"??JAVÃûÓÅ¹İ","type":0,"api":"http://mygzycj.com/api.php?ac=videolist" ,"¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??AVZY6888×ÊÔ´","name":"??AVZY6888×ÊÔ´","type":1,"api":"http://m.7777688.com/inc/apijson.php","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??É«×ÊÔ´","name":"??É«×ÊÔ´","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist" ,"¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??¾Á¾Á×ÊÔ´","name":"??¾Á¾Á×ÊÔ´","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=ÊÓÆµÁĞ±í","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??¾Ã²İ×ÊÔ´","name":"??¾Ã²İ×ÊÔ´","type":0,"api":"http://jcspcj8.com/api?ac=videolist","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??ÀÇÉÙÄê","name":"??ÀÇÉÙÄê","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist" ,"¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??¸»¶ş´ú×ÊÔ´","name":"??¸»¶ş´ú×ÊÔ´","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist" ,"¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??×ÖÄ»Íø","name":"??×ÖÄ»Íø","type":0,"api":"http://zmcj88.com/sapi?ac=videolist","searchable" :0,"¿ìËÙËÑË÷":0},
-{"key":"??ÀûÀ´×ÊÔ´","name":"??ÀûÀ´×ÊÔ´","type":0,"api":"http://llzxcj.com/inc/sck.php?ac=ÊÓÆµÁĞ±í","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"??¼ÑÀö×ÊÔ´","name":"??¼ÑÀö×ÊÔ´","type":1,"api":"http://www.jializyzapi.com/api.php/provide/vod/ ","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??·¬ºÅ×ÊÔ´","name":"??·¬ºÅ×ÊÔ´","type":1,"api":"http://fhapi9.com/api.php/provide/vod/", ¡°¿ÉËÑË÷¡±£º0£¬¡°¿ìËÙËÑË÷¡±£º0}£¬
-{"key":"??öèÓã×ÊÔ´","??öèÓã×ÊÔ´","type":1,"api":"https://shayuapi.com/api.php/provide/vod/", ¡°¿ÉËÑË÷¡±£º0£¬¡°¿ìËÙËÑË÷¡±£º0}£¬
-{"key":"??ËÙ¶È×ÊÔ´","name":"??ËÙ¶È×ÊÔ´","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"??KKĞ´Õæ×ÊÔ´","name":"??KKĞ´Õæ×ÊÔ´","type":1,"api":"https://kkzy.me/api.php/provide/vod/ ","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
+{"key":"??523 èµ„æº","name":"??523 èµ„æº","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??ä¸è¢œèµ„æº","name":"??ä¸è¢œèµ„æº","type":1,"api":"https://siwazyw.cc/api.php/provide/vod/", â€œå¯æœç´¢â€ï¼š0ï¼Œâ€œå¿«é€Ÿæœç´¢â€ï¼š0}ï¼Œ
+{"key":"??èŠ’æœèµ„æº","name":"??èŠ’æœèµ„æº","type":1,"api":"https://mgzyz1.com/api.php/provide/vod/", â€œå¯æœç´¢â€ï¼š0ï¼Œâ€œå¿«é€Ÿæœç´¢â€ï¼š0}ï¼Œ
+{"key":"??ä¹é±¼èµ„æº","name":"??ä¹é±¼èµ„æº","type":1,"api":"https://www.leyuzyapi.com/inc/apijson_vod.php" ,"å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??æ°´èœœæ¡ƒ","name":"??æ°´èœœæ¡ƒ","type":1,"api":"http://51smt4.xyz/api.php/provide/vod/", â€œå¯æœç´¢â€ï¼š0ï¼Œâ€œå¿«é€Ÿæœç´¢â€ï¼š0}ï¼Œ
+{"key":"??ç§€è‰²èµ„æº","name":"??ç§€è‰²èµ„æº","type":1,"api":"https://api.xiuseapi.com/api.php/provide/vod/ ","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??æ¢æ¢èµ„æº","name":"??æ¢æ¢èµ„æº","type":1,"api":"https://apittzy.com/api.php/provide/vod/ ","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??è‰²çŒ«èµ„æº","name":"??è‰²çŒ«èµ„æº","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php" ,"å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??è‰è“èµ„æº","name":"??è‰è“èµ„æº","type":1,"api":"https://caiji.caomeiapi.com/inc/apijson_vod.php","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??çˆ±çœ‹èµ„æº","name":"??çˆ±çœ‹èµ„æº","type":1,"api":"http://www.aikanzyz9.com/inc/apijson_vod.php" ,"å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??èŠ±é­èµ„æº","name":"??èŠ±é­èµ„æº","type":1,"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??è‘¡è„èµ„æº","name":"??è‘¡è„èµ„æº","type":1,"api":"https://api.putaozy.net/inc/apijson_vod.php","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??è‰²çªèµ„æº","name":"??è‰²çªèµ„æº","type":1,"api":"https://sewozyapi.com/api.php/provide/vod/ ","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??æ·«çªèµ„æº","name":"??æ·«çªèµ„æº","type":1,"api":"https://api.yinwoapi.com/api.php/provide/ vod/","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??4000 èµ„æº","name":"??4000 èµ„æº","type":1,"api":"https://www.4000zy.com/inc/apijson_vod.php","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??å¤§é›•èµ„æº","name":"??å¤§é›•èµ„æº","type":1,"api":"http://www.caobi209.vip/api.php/provide/ vod/","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??è‰²å±Œä¸èµ„æº","name":"??è‰²å±Œä¸èµ„æº","type":0,"api":"http://sdszyapi.com/home/cjapi/asbb/mc10/ vod/xml","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??å°å§å§èµ„æº","name":"??å°å§å§èµ„æº","type":0,"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/ vod/xml","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??52AVAV","name":"??52AVAV","type":0,"api":"https://52zyapi.com/home/cjapi/asda/mc10/vod/xml" ,"å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??æ°´å¸˜æ´èµ„æº","name":"??æ°´å¸˜æ´èµ„æº","type":1,"api":"https://www.sldcaiji.com/home/cjapi/ s6da/mc10/vod/json","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??æˆ‘è¦å•ªå•ª","name":"??æˆ‘è¦å•ªå•ª","type":0,"api":"http://www.caiji21.com/home/cjapi/ klkl/mc10/vod/xml","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??AVé›†ä¸­æ·«","name":"??AVé›†ä¸­æ·«","type":0,"api":"https://www.caiji22.com/home/cjapi/klp0/ mc10/vod/xml","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??å¤œæ’¸èµ„æº","name":"??å¤œæ’¸èµ„æº","type":0,"api":"https://www.caiji23.com/home/cjapi/ kls6/mc10/vod/xml","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??å¤§å±Œä¸èµ„æº","name":"??å¤§å±Œä¸èµ„æº","type":0,"api":"http://www.caiji24.com/home/cjapi/p0d2/ mc10/vod/xml","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??å’ªå’ªèµ„æº","name":"??å’ªå’ªèµ„æº","type":0,"api":"http://www.caiji25.com/home/cjapi/p0as/ mc10/vod/xml","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??é²é±¼AV","name":"??é²é±¼AV","type":0,"api":"http://caiji26.com/home/cjapi/p0g8/mc10/vod/ xml","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??ç²¾ç‚¼å·¥å‚èµ„æº","name":"??ç²¾ç‚¼å·¥å‚èµ„æº","type":0,"api":"https://jgczyapi.com/home/cjapi/kld2/mc10/ vod/xml","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??ç‚¹??å¨±ä¹","name":"??ç‚¹??å¨±ä¹","type":0,"api":"https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/ xml","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??æ·«äººå¦»èµ„æº","name":"??æ·«äººå¦»èµ„æº","type":1,"api":"http://www.yrqcaiji.com/home/cjapi/s6c7/ mc10/vod/json","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??å°å¤„å¥³èµ„æº","name":"??å°å¤„å¥³èµ„æº","type":1,"api":"http://xcncaiji.com/home/cjapi/s6bb/mc10/ vod/json","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??å¤§MMèµ„æº","name":"??å¤§MMèµ„æº","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/ mc10/vod/xml","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??é»„ç“œç”µè§†èµ„æº","name":"??é»„ç“œç”µè§†èµ„æº","type":0,"api":"https://www.caiji10.com/home/cjapi/cfs6/ mc10/vod/xml","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??å¿«æ’­ç›’å­èµ„æº","name":"??å¿«æ’­ç›’å­èµ„æº","type":0,"api":"https://www.caiji09.com/home/cjapi/ cfp0/mc10/vod/xml","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??å¤§é¦™è•‰èµ„æº","name":"??å¤§é¦™è•‰èµ„æº","type":0,"api":"https://www.caiji08.com/home/cjapi/cfkl/ mc10/vod/xml","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??æ—¥æœ¬AVåœ¨çº¿","name":"??æ—¥æœ¬AVåœ¨çº¿","type":0,"api":"https://www.caiji07.com/home/cjapi/cfcf/ mc10/vod/xml","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??ä¹…ä¹…çƒ­åœ¨çº¿","name":"??ä¹…ä¹…çƒ­åœ¨çº¿","type":0,"api":"https://www.caiji06.com/home/cjapi/cfbb/ mc10/vod/xml","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??é’é’è‰è§†é¢‘","name":"??é’é’è‰è§†é¢‘","type":0,"api":"https://www.caiji05.com/home/cjapi/cfda/ mc10/vod/xml","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??éº»è±†è§†é¢‘","name":"??éº»è±†è§†é¢‘","type":0,"api":"https://www.caiji04.com/home/cjapi/cfc7/ mc10/vod/xml","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??ä¸€æœ¬é“èµ„æº","name":"??ä¸€æœ¬ä¸€æœ¬é“èµ„æº","type":0,"api":"https://www.caiji03.com/home/cjapi/cfg8/ mc10/vod/xml","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??è‰æ¦´è§†é¢‘","name":"??è‰æ¦´è§†é¢‘","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/ vod/xml","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??äºšæ´²æˆäººåœ¨çº¿","name":"??äºšæ´²æˆäººåœ¨çº¿","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/ mc10/vod/xml","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??å¤©å™œå•¦èµ„æº","name":"??å¤©å™œå•¦èµ„æº","type":0,"api":"http://www.987caiji.com/api/max. php","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??99 èµ„æº","name":"??99 èµ„æº","type":1,"api":"http://99zy.pw/api.php/provide/vod/", â€œå¯æœç´¢â€ï¼š0ï¼Œâ€œå¿«é€Ÿæœç´¢â€ï¼š0}ï¼Œ
+{"key":"??010çˆ±èµ„æº","name":"??010çˆ±èµ„æº","type":0,"api":"http://www.010aizy.com/API/macs.php" ,"å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??ç—´æ±‰å›¢å›¢é•¿","name":"??ç—´æ±‰å›¢å›¢","type":1,"api":"https://javcaptain.com/api.php/provide/vod/", â€œå¯æœç´¢â€ï¼š0ï¼Œâ€œå¿«é€Ÿæœç´¢â€ï¼š0}ï¼Œ
+{"key":"??æŠ–é˜´è§†é¢‘","name":"??æŠ–é˜´è§†é¢‘","type":1,"api":"https://www.888dav.com/api.php/provide/ vod/","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??éº»è±†è§†é¢‘2","name":"??éº»è±†è§†é¢‘2","type":1,"api":"https://madouse.la/api.php/provide/ vod/","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??91éº»è±†","name":"??91éº»è±†","type":1,"api":"https://91md.me/api.php/provide/vod/ ","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??99 èµ„æºå§","name":"??99 èµ„æºå§","type":1,"api":"http://99zyba.com/api.php/provide/vod/ ","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??çˆ±æ“èµ„æº","name":"??çˆ±æ“èµ„æº","type":1,"api":"https://aicaozy.com/api.php/provide/vod/ ","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??æµªæ½®èµ„æº","name":"??æµªæ½®èµ„æº","type":1,"api":"http://langchaozy6.com/api.php/provide/vod/", â€œå¯æœç´¢â€ï¼š0ï¼Œâ€œå¿«é€Ÿæœç´¢â€ï¼š0}ï¼Œ
+{"key":"??é€Ÿæ’­èµ„æº","name":"??é€Ÿæ’­èµ„æº","type":1,"api":"https://api.suboapi.com/api.php/provide/ vod/","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??é…·è±†èµ„æº","name":"??é…·è±†èµ„æº","type":1,"api":"https://kudouzy.com/api.php/provide/vod/ ","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??é…·è±†2","name":"??é…·è±†2","type":1,"api":"https://api.kdapi.info/api.php/provide/ vod/","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??é…·ä¼¦ç†","name":"??é…·ä¼¦ç†","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/ ","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??å½±åº“èµ„æº","name":"??å½±åº“èµ„æº","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/ ","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??ä¸‡å½±è‰²","name":"??ä¸‡å½±è‰²","type":1,"api":"https://wanying4.com/api.php/provide/vod/ ","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??é“¶é¾™èµ„æº","name":"??é“¶é¾™èµ„æº","type":1,"api":"https://yinlong.tv/api.php/provide/vod/ ","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??å¥¶èŒ¶èµ„æº","name":"??å¥¶èŒ¶èµ„æº","type":1,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??çˆ±æ’­èµ„æº","name":"??çˆ±æ’­èµ„æº","type":1,"api":"https://cj.apiabzy.com/api.php/provide/ vod/","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??ç¾å°‘å¥³èµ„æº","name":"??ç¾å°‘å¥³èµ„æº","type":0,"api":"https://www.msnii.com/api/xml.php" ,"å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??æ·«æ°´æœºèµ„æº","name":"??æ·«æ°´æœºèµ„æº","type":0,"api":"https://www.xrbsp.com/api/xml.php" ,"å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??é¦™å¥¶å„¿èµ„æº","name":"??é¦™å¥¶å„¿èµ„æº","type":0,"api":"https://www.gdlsp.com/api/xml. php","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??ç™½å«–èµ„æº","name":"??ç™½å«–èµ„æº","type":0,"api":"https://www.kxgav.com/api/xml.php" ,"å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??å°æ¹¿å¦¹èµ„æº","name":"??å°æ¹¿å¦¹èµ„æº","type":0,"api":"https://www.afasu.com/api/xml. php","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??é»„AVèµ„æº","name":"??é»„AVèµ„æº","type":1,"api":"https://www.pgxdy.com/api/json.php" ,"å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??å¤§åœ°èµ„æº","name":"??å¤§åœ°èµ„æº","type":0,"api":"https://dadiapi.com/api.php","searchable":0 "å¿«é€Ÿæœç´¢":0},
+{"key":"??CKèµ„æº","name":"??CKèµ„æº","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/ ","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??è€é¸­èµ„æº","name":"??è€é¸­èµ„æº","type":1,"api":"https://api.apilyzy.com/api.php/provide/ vod/","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??è€é¸­TV","name":"??è€é¸­TV","type":1,"api":"https://laoyatv.com/api.php/provide/vod/ ","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??èŠ±æ¤’èµ„æº","name":"??èŠ±æ¤’èµ„æº","type":1,"api":"https://apihjzy.com/api.php/provide/vod/", â€œå¯æœç´¢â€ï¼š0ï¼Œâ€œå¿«é€Ÿæœç´¢â€ï¼š0}ï¼Œ
+{"key":"??è¾£æ¤’èµ„æº","name":"??è¾£æ¤’èµ„æº","type":1,"api":"https://apilj.com/api.php/provide/vod/at/ json/","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??ä¹æ’­èµ„æº","name":"??ä¹æ’­èµ„æº","type":1,"api":"https://lbapi9.com/api.php/provide/vod/ ","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{â€œé”®â€ï¼šâ€œ??åšå¤©å ‚â€ï¼Œâ€œåç§°â€ï¼šâ€œ??åšå¤©å ‚â€ï¼Œâ€œç±»å‹â€ï¼š0ï¼Œâ€œapiâ€ï¼šâ€œhttp://bttcj.com/inc/sapi.phpâ€ï¼Œâ€œå¯æœç´¢â€ :0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??ç¯äºšèµ„æº","name":"??ç¯äºšèµ„æº","type":0,"api":"http://wmcj8.com/inc/sapi.php","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??JAVåä¼˜é¦†","name":"??JAVåä¼˜é¦†","type":0,"api":"http://mygzycj.com/api.php?ac=videolist" ,"å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??AVZY6888èµ„æº","name":"??AVZY6888èµ„æº","type":1,"api":"http://m.7777688.com/inc/apijson.php","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??è‰²èµ„æº","name":"??è‰²èµ„æº","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist" ,"å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??ç–ç–èµ„æº","name":"??ç–ç–èµ„æº","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=è§†é¢‘åˆ—è¡¨","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??ä¹…è‰èµ„æº","name":"??ä¹…è‰èµ„æº","type":0,"api":"http://jcspcj8.com/api?ac=videolist","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??ç‹¼å°‘å¹´","name":"??ç‹¼å°‘å¹´","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist" ,"å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??å¯ŒäºŒä»£èµ„æº","name":"??å¯ŒäºŒä»£èµ„æº","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist" ,"å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??å­—å¹•ç½‘","name":"??å­—å¹•ç½‘","type":0,"api":"http://zmcj88.com/sapi?ac=videolist","searchable" :0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??åˆ©æ¥èµ„æº","name":"??åˆ©æ¥èµ„æº","type":0,"api":"http://llzxcj.com/inc/sck.php?ac=è§†é¢‘åˆ—è¡¨","å¯æœç´¢":0,"quickSearch":0},
+{"key":"??ä½³ä¸½èµ„æº","name":"??ä½³ä¸½èµ„æº","type":1,"api":"http://www.jializyzapi.com/api.php/provide/vod/ ","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??ç•ªå·èµ„æº","name":"??ç•ªå·èµ„æº","type":1,"api":"http://fhapi9.com/api.php/provide/vod/", â€œå¯æœç´¢â€ï¼š0ï¼Œâ€œå¿«é€Ÿæœç´¢â€ï¼š0}ï¼Œ
+{"key":"??é²¨é±¼èµ„æº","??é²¨é±¼èµ„æº","type":1,"api":"https://shayuapi.com/api.php/provide/vod/", â€œå¯æœç´¢â€ï¼š0ï¼Œâ€œå¿«é€Ÿæœç´¢â€ï¼š0}ï¼Œ
+{"key":"??é€Ÿåº¦èµ„æº","name":"??é€Ÿåº¦èµ„æº","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"??KKå†™çœŸèµ„æº","name":"??KKå†™çœŸèµ„æº","type":1,"api":"https://kkzy.me/api.php/provide/vod/ ","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
     //
-{"key": "»·ÑÇ","name": "??»·ÑÇ","type": 0,"api": "http://wmcj8.com/inc/sapi.php","playUrl": "","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key":"ÀÇÉÙÄê","name":"??ÀÇÉÙÄê","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist", "playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"¸»¶ş´ú","name":"??¸»¶ş´ú","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","playUrl ":"","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "ÀÏÑ¼×ÊÔ´","name": "??ÀÏÑ¼×ÊÔ´","type": 0,"api": "https://api.apilyzy.com/api.php/provide/vod /at/xml","playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "´óÃÃ×ÊÔ´","name": "??´óÃÃ×ÊÔ´","type": 0,"api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc /vod/xml","playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "µãµãÓéÀÖ","name": "??µãµãÓéÀÖ","type": 0,"api": "https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml ","playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "Ã¢¹û","name": "??Ã¢¹û","type": 0,"api": "https://www.mgav1.cc/api.php/provide/vod/at/xml /","playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "Ã¢¹û×ÊÔ´","name": "??Ã¢¹û×ÊÔ´","type": 0,"api": "https://www.mgzyz1.com/api.php/provide/vod/at /xml/","playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "BTÌìÌÃ","name": "??BTÌìÌÃ","type": 0,"api": "http://bttcj.com/inc/sapi.php","playUrl": "","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key": "´óµØ","name": "??´óµØ","type": 0,"api": "https://dadiapi.com/api.php","playUrl": "","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key": "»¨½·","name": "??»¨½·","type": 0,"api": "https://apihjzy.com/api.php/provide/vod/at/xml/" ,"playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "ÀÖ°É","name": "??ÀÖ°É","type": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml /","playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
+{"key": "ç¯äºš","name": "??ç¯äºš","type": 0,"api": "http://wmcj8.com/inc/sapi.php","playUrl": "","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key":"ç‹¼å°‘å¹´","name":"??ç‹¼å°‘å¹´","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist", "playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key":"å¯ŒäºŒä»£","name":"??å¯ŒäºŒä»£","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","playUrl ":"","å¯æœç´¢":0,"quickSearch":0},
+{"key": "è€é¸­èµ„æº","name": "??è€é¸­èµ„æº","type": 0,"api": "https://api.apilyzy.com/api.php/provide/vod /at/xml","playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "å¤§å¦¹èµ„æº","name": "??å¤§å¦¹èµ„æº","type": 0,"api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc /vod/xml","playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "ç‚¹ç‚¹å¨±ä¹","name": "??ç‚¹ç‚¹å¨±ä¹","type": 0,"api": "https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml ","playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "èŠ’æœ","name": "??èŠ’æœ","type": 0,"api": "https://www.mgav1.cc/api.php/provide/vod/at/xml /","playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "èŠ’æœèµ„æº","name": "??èŠ’æœèµ„æº","type": 0,"api": "https://www.mgzyz1.com/api.php/provide/vod/at /xml/","playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "BTå¤©å ‚","name": "??BTå¤©å ‚","type": 0,"api": "http://bttcj.com/inc/sapi.php","playUrl": "","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key": "å¤§åœ°","name": "??å¤§åœ°","type": 0,"api": "https://dadiapi.com/api.php","playUrl": "","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key": "èŠ±æ¤’","name": "??èŠ±æ¤’","type": 0,"api": "https://apihjzy.com/api.php/provide/vod/at/xml/" ,"playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "ä¹å§","name": "??ä¹å§","type": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml /","playUrl": "","å¯æœç´¢":0,"quickSearch":0},
     //
-{"key": "A888","name": "??A888","type": 0,"api": "http://m.7777688.com/inc/api.php","playUrl": "","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key": "·¬ºÅ","name": "??·¬ºÅ","type": 0,"api": "http://fhapi9.com/api.php/provide/vod/at/xml/" ,"playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "öèÓã","name": "??öèÓã","type": 0,"api": "https://shayuapi.com/api.php/provide/vod/at/xml/" ,"playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "ËÙ¶È","name": "??ËÙ¶È","type": 0,"api": "http://www.ggmmzy.com: 9999/inc/xml","playUrl": "","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key": "ÀÖ²¥","name": "??ÀÖ²¥","type": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml /","playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "ÒøÁú","name": "??ÒøÁú","type": 0,"api": "https://yinlong.tv/api.php/provide/vod/at/xml ","playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "99 °É","name": "??99 °É","type": 0,"api": "http://99zyba.com/api.php/provide/vod/at/xml ","playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key":"51SÃÛÌÒ","name":"??51SÃÛÌÒ","type":0,"api":"http://51smt4.xyz/api.php/provide/vod/at /xml","playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "sÃ¨×ÊÔ´","name": "??SÃ¨×ÊÔ´","type": 0,"api": "https://api.maozyapi.com/inc/api.php", "playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "1024 ×ÊÔ´","name": "??1024 ×ÊÔ´","type": 0,"api": "https://www.1024nf.com/api.php/provide/vod/at /xml","playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "4000 ×ÊÔ´","name": "??4000 ×ÊÔ´","type": 0,"api": "https://www.4000zy.com/inc/api.php","playUrl ":"","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "Ğ¡½ã½ã","name": "??Ğ¡½ã½ã","type": 0,"api": "https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml ","playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
+{"key": "A888","name": "??A888","type": 0,"api": "http://m.7777688.com/inc/api.php","playUrl": "","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key": "ç•ªå·","name": "??ç•ªå·","type": 0,"api": "http://fhapi9.com/api.php/provide/vod/at/xml/" ,"playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "é²¨é±¼","name": "??é²¨é±¼","type": 0,"api": "https://shayuapi.com/api.php/provide/vod/at/xml/" ,"playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "é€Ÿåº¦","name": "??é€Ÿåº¦","type": 0,"api": "http://www.ggmmzy.com: 9999/inc/xml","playUrl": "","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key": "ä¹æ’­","name": "??ä¹æ’­","type": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml /","playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "é“¶é¾™","name": "??é“¶é¾™","type": 0,"api": "https://yinlong.tv/api.php/provide/vod/at/xml ","playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "99 å§","name": "??99 å§","type": 0,"api": "http://99zyba.com/api.php/provide/vod/at/xml ","playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key":"51Sèœœæ¡ƒ","name":"??51Sèœœæ¡ƒ","type":0,"api":"http://51smt4.xyz/api.php/provide/vod/at /xml","playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "sçŒ«èµ„æº","name": "??SçŒ«èµ„æº","type": 0,"api": "https://api.maozyapi.com/inc/api.php", "playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "1024 èµ„æº","name": "??1024 èµ„æº","type": 0,"api": "https://www.1024nf.com/api.php/provide/vod/at /xml","playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "4000 èµ„æº","name": "??4000 èµ„æº","type": 0,"api": "https://www.4000zy.com/inc/api.php","playUrl ":"","å¯æœç´¢":0,"quickSearch":0},
+{"key": "å°å§å§","name": "??å°å§å§","type": 0,"api": "https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml ","playUrl": "","å¯æœç´¢":0,"quickSearch":0},
     //
-{"key": "caiji01","name": "??caiji01","type": 0,"api": "http://caiji01.com/home/cjapi/cfd2/mc/vod/xml", "playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "caiji02","name": "??caiji02","type": 0,"api": "http://caiji02.com/home/cjapi/cfas/mc/vod/xml", "playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "caiji03","name": "??caiji03","type": 0,"api": "http://caiji03.com/home/cjapi/cfg8/mc/vod/xml", "playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "caiji04","name": "??caiji04","type": 0,"api": "http://caiji04.com/home/cjapi/cfc7/mc/vod/xml", "playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "caiji05","name": "??caiji05","type": 0,"api": "http://caiji05.com/home/cjapi/cfda/mc/vod/xml", "playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "caiji06","name": "??caiji06","type": 0,"api": "http://caiji06.com/home/cjapi/cfbb/mc/vod/xml", "playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "caiji07","name": "??caiji07","type": 0,"api": "http://caiji07.com/home/cjapi/cfcf/mc/vod/xml", "playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "caiji08","name": "??caiji08","type": 0,"api": "http://caiji08.com/home/cjapi/cfkl/mc/vod/xml", "playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "caiji09","name": "??caiji09","type": 0,"api": "http://caiji09.com/home/cjapi/cfp0/mc/vod/xml", "playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "caiji10","name": "??caiji10","type": 0,"api": "http://caiji10.com/home/cjapi/cfs6/mc/vod/xml", "playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "À±½·×ÊÔ´","name": "??À±½·×ÊÔ´","type": 0,"api": "http://api.11bat.com/api.php/provide/vod/at /xml","playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "Ïş·å","name": "??Ïş·å","type": 0,"api": "http://api.xxcr.tk/api.php/provide/vod/at /xml","playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "µã×ÊÔ´","name": "??µã×ÊÔ´","type": 0,"api": "https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml ","playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "Ğ¡ÃÃ×ÊÔ´","name": "??Ğ¡ÃÃ×ÊÔ´","type": 1,"api": "https://www.afasu.com/api/json.php", "playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "Ïã¶ù×ÊÔ´","name": "??Ïã¶ù×ÊÔ´","type": 1,"api": "https://www.gdlsp.com/api/json.php", "playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "Ğ¡°××ÊÔ´","name": "??Ğ¡°××ÊÔ´","type": 1,"api": "https://www.kxgav.com/api/json.php", "playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "¾Á¾Á×ÊÔ´","name": "??¾Á¾Á×ÊÔ´","type": 0,"api": "http://99zywcj.com/inc/sapi.php?ac=videolist ","playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "ÀûÀ´×ÊÔ´","name": "??ÀûÀ´×ÊÔ´","type": 0,"api": "http://llzxcj.com/inc/sck.php?ac=videolist ","playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "×ÖÄ»Íø","name": "??×ÖÄ»Íø","type": 0,"api": "http://zmcj88.com/sapi?ac=videolist","playUrl": "","¿ÉËÑË÷":0,"¿ìËÙËÑË÷":0},
-{"key": "¾«Á¶¹¤³§","name": "??¾«Á¶¹¤³§","type": 0,"api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml ","playUrl": "","¿ÉËÑË÷":0,"quickSearch":0},
-{"key": "ĞãSS","name": "??ĞãSS","type": 0,"api": "https://api.xiuseapi.com/api.php/provide/vod/at /xml/","playUrl": "https://player.leyuzy.net/?url="},
-{"key": "ÀÖÓã","name": "??ÀÖÓã","type": 0,"api": "https://www.leyuzyapi.com/inc/seacmsapi.php","playUrl ": "https://player.leyuzy.net/?url="},
-{"key": "Ì½Ì½×ÊÔ´","name": "??Ì½Ì½×ÊÔ´","type": 0,"api": "https://apittzy.com/api.php/provide/vod/at /xml","playUrl": "https://jiexi.ttbfp1.com/m3u8/?url="},
+{"key": "caiji01","name": "??caiji01","type": 0,"api": "http://caiji01.com/home/cjapi/cfd2/mc/vod/xml", "playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "caiji02","name": "??caiji02","type": 0,"api": "http://caiji02.com/home/cjapi/cfas/mc/vod/xml", "playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "caiji03","name": "??caiji03","type": 0,"api": "http://caiji03.com/home/cjapi/cfg8/mc/vod/xml", "playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "caiji04","name": "??caiji04","type": 0,"api": "http://caiji04.com/home/cjapi/cfc7/mc/vod/xml", "playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "caiji05","name": "??caiji05","type": 0,"api": "http://caiji05.com/home/cjapi/cfda/mc/vod/xml", "playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "caiji06","name": "??caiji06","type": 0,"api": "http://caiji06.com/home/cjapi/cfbb/mc/vod/xml", "playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "caiji07","name": "??caiji07","type": 0,"api": "http://caiji07.com/home/cjapi/cfcf/mc/vod/xml", "playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "caiji08","name": "??caiji08","type": 0,"api": "http://caiji08.com/home/cjapi/cfkl/mc/vod/xml", "playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "caiji09","name": "??caiji09","type": 0,"api": "http://caiji09.com/home/cjapi/cfp0/mc/vod/xml", "playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "caiji10","name": "??caiji10","type": 0,"api": "http://caiji10.com/home/cjapi/cfs6/mc/vod/xml", "playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "è¾£æ¤’èµ„æº","name": "??è¾£æ¤’èµ„æº","type": 0,"api": "http://api.11bat.com/api.php/provide/vod/at /xml","playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "æ™“å³°","name": "??æ™“å³°","type": 0,"api": "http://api.xxcr.tk/api.php/provide/vod/at /xml","playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "ç‚¹èµ„æº","name": "??ç‚¹èµ„æº","type": 0,"api": "https://xx55zyapi.com/home/cjapi/ascf/mc/vod/xml ","playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "å°å¦¹èµ„æº","name": "??å°å¦¹èµ„æº","type": 1,"api": "https://www.afasu.com/api/json.php", "playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "é¦™å„¿èµ„æº","name": "??é¦™å„¿èµ„æº","type": 1,"api": "https://www.gdlsp.com/api/json.php", "playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "å°ç™½èµ„æº","name": "??å°ç™½èµ„æº","type": 1,"api": "https://www.kxgav.com/api/json.php", "playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "ç–ç–èµ„æº","name": "??ç–ç–èµ„æº","type": 0,"api": "http://99zywcj.com/inc/sapi.php?ac=videolist ","playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "åˆ©æ¥èµ„æº","name": "??åˆ©æ¥èµ„æº","type": 0,"api": "http://llzxcj.com/inc/sck.php?ac=videolist ","playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "å­—å¹•ç½‘","name": "??å­—å¹•ç½‘","type": 0,"api": "http://zmcj88.com/sapi?ac=videolist","playUrl": "","å¯æœç´¢":0,"å¿«é€Ÿæœç´¢":0},
+{"key": "ç²¾ç‚¼å·¥å‚","name": "??ç²¾ç‚¼å·¥å‚","type": 0,"api": "https://jgczyapi.com/home/cjapi/kld2/mc/vod/xml ","playUrl": "","å¯æœç´¢":0,"quickSearch":0},
+{"key": "ç§€SS","name": "??ç§€SS","type": 0,"api": "https://api.xiuseapi.com/api.php/provide/vod/at /xml/","playUrl": "https://player.leyuzy.net/?url="},
+{"key": "ä¹é±¼","name": "??ä¹é±¼","type": 0,"api": "https://www.leyuzyapi.com/inc/seacmsapi.php","playUrl ": "https://player.leyuzy.net/?url="},
+{"key": "æ¢æ¢èµ„æº","name": "??æ¢æ¢èµ„æº","type": 0,"api": "https://apittzy.com/api.php/provide/vod/at /xml","playUrl": "https://jiexi.ttbfp1.com/m3u8/?url="},
 {
-  "key": "??ÃÍÅ£",
-  "name": "??ÃÍÅ£",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://nen13.space/api.php/provide/vod/at/xml¡±
+  "key": "??çŒ›ç‰›",
+  "name": "??çŒ›ç‰›",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://nen13.space/api.php/provide/vod/at/xmlâ€
 },
 {
-  "key": "??¾Ã²İ×ÊÔ´",
-  "name": "??¾Ã²İ×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://jcspcj8.com/sapi¡±
+  "key": "??ä¹…è‰èµ„æº",
+  "name": "??ä¹…è‰èµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://jcspcj8.com/sapiâ€
 },
 {
-  "key": "??JAVÃûÓÅ",
-  "name": "??JAVÃûÓÅ",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://mygzycj.com/api.php?ac=list¡±
+  "key": "??JAVåä¼˜",
+  "name": "??JAVåä¼˜",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://mygzycj.com/api.php?ac=listâ€
 },
 {
-  "key": "??SS×ÊÔ´",
-  "name": "??SS×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://secj8.com/inc/sapi.php?ac=videolist¡±
+  "key": "??SSèµ„æº",
+  "name": "??SSèµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://secj8.com/inc/sapi.php?ac=videolistâ€
 },
 {
-  "key": "??´óµØ×ÊÔ´",
-  "name": "??´óµØ×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°https://dadiapi.com/api.php/¡±
+  "key": "??å¤§åœ°èµ„æº",
+  "name": "??å¤§åœ°èµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://dadiapi.com/api.php/â€
 },
 {
-  "key": "??ÀÖ²¥",
-  "name": "??ÀÖ²¥",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°https://lbapi9.com/api.php/provide/vod/at/xml¡±
+  "key": "??ä¹æ’­",
+  "name": "??ä¹æ’­",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://lbapi9.com/api.php/provide/vod/at/xmlâ€
 },
 {
-  "key": "??²ÔÌì",
-  "name": "??²ÔÌì",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://cj.cangtiancj.com/api.php/Seacms/vod¡±
+  "key": "??è‹å¤©",
+  "name": "??è‹å¤©",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://cj.cangtiancj.com/api.php/Seacms/vodâ€
 },
 {
-  "key": "??Ğ¡ºì×ÊÔ´",
-  "name": "??Ğ¡ºì×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°https://cj.xhzy1.xyz/api.php/provide/vod/at/xml¡±
+  "key": "??å°çº¢èµ„æº",
+  "name": "??å°çº¢èµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://cj.xhzy1.xyz/api.php/provide/vod/at/xmlâ€
 },
 {
-  "key": "??CK×ÊÔ´",
-  "name": "??CK×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°https://ckzy.me/api.php/provide/vod/at/xml¡±
+  "key": "??CKèµ„æº",
+  "name": "??CKèµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://ckzy.me/api.php/provide/vod/at/xmlâ€
 },
 {
-  "key": "??ÇÑ×Ó×ÊÔ´",
-  "name": "??ÇÑ×Ó×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://www.ckzy.com/api.php/provide/vod/at/xml¡±
+  "key": "??èŒ„å­èµ„æº",
+  "name": "??èŒ„å­èµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://www.ckzy.com/api.php/provide/vod/at/xmlâ€
 },
 {
-  "key": "??¼ÑÀö",
-  "name": "??¼ÑÀö",
-  ¡°ÀàĞÍ¡±£º0£¬
+  "key": "??ä½³ä¸½",
+  "name": "??ä½³ä¸½",
+  â€œç±»å‹â€ï¼š0ï¼Œ
   "api": "https://jialiapi.com/api.php/provide/vod/at/xml"
 },
 {
-  "key": "??¸»¶ş´ú×ÊÔ´",
-  "name": "??¸»¶ş´ú×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://f2dcj6.com/sapi/?ac=videolist¡±
+  "key": "??å¯ŒäºŒä»£èµ„æº",
+  "name": "??å¯ŒäºŒä»£èµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://f2dcj6.com/sapi/?ac=videolistâ€
 },
 {
-  "key": "??·¬ºÅ×ÊÔ´",
-  "name": "??·¬ºÅ×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º1£¬
-  ¡°api¡±£º¡°http://fhapi9.com/api.php/provide/vod/¡±
+  "key": "??ç•ªå·èµ„æº",
+  "name": "??ç•ªå·èµ„æº",
+  â€œç±»å‹â€ï¼š1ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://fhapi9.com/api.php/provide/vod/â€
 },
 {
-  "key": "??ÒÕÊõ",
-  "name": "??ÒÕÊõ",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://122ap.com/inc/api.php¡±
+  "key": "??è‰ºæœ¯",
+  "name": "??è‰ºæœ¯",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://122ap.com/inc/api.phpâ€
 },
 {
-  "key": "??ÃÀÉÙÅ®×ÊÔ´",
-  "name": "??ÃÀÉÙÅ®×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º1£¬
-  ¡°api¡±£º¡°https://www.msnii.com/api/json.php¡±
+  "key": "??ç¾å°‘å¥³èµ„æº",
+  "name": "??ç¾å°‘å¥³èµ„æº",
+  â€œç±»å‹â€ï¼š1ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://www.msnii.com/api/json.phpâ€
 },
 {
-  "key": "??»ÆAV×ÊÔ´",
-  "name": "??»ÆAV×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º1£¬
-  ¡°api¡±£º¡°https://www.pgxdy.com/api/json.php¡±
+  "key": "??é»„AVèµ„æº",
+  "name": "??é»„AVèµ„æº",
+  â€œç±»å‹â€ï¼š1ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://www.pgxdy.com/api/json.phpâ€
 },
 {
-  "key": "??È¤²¥×ÊÔ´",
-  "name": "??È¤²¥×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°https://www.qbzyz.com/api.php/provide/vod/at/xml¡±
+  "key": "??è¶£æ’­èµ„æº",
+  "name": "??è¶£æ’­èµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://www.qbzyz.com/api.php/provide/vod/at/xmlâ€
 },
 {
-  "key": "??ÓÅ¹û×ÊÔ´",
-  "name": "??ÓÅ¹û×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°https://www.ugzyz5.com/inc/zyapimac.php¡±
+  "key": "??ä¼˜æœèµ„æº",
+  "name": "??ä¼˜æœèµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://www.ugzyz5.com/inc/zyapimac.phpâ€
 },
 {
-  "key": "??YË®»ú×ÊÔ´",
-  "name": "??YË®»ú×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º1£¬
-  ¡°api¡±£º¡°https://www.xrbsp.com/api/json.php¡±
+  "key": "??Yæ°´æœºèµ„æº",
+  "name": "??Yæ°´æœºèµ„æº",
+  â€œç±»å‹â€ï¼š1ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://www.xrbsp.com/api/json.phpâ€
 },
 {
   "key": "??52AVAV",
-  "Ãû³Æ": "??52AVAV",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://02caiji.com/home/cjapi/aab3238922bcc25a6f606eb525ffdc56/vod/xml¡±
+  "åç§°": "??52AVAV",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://02caiji.com/home/cjapi/aab3238922bcc25a6f606eb525ffdc56/vod/xmlâ€
 },
 {
-  "key": "??Ã¢¹û",
-  "name": "??Ã¢¹û",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°https://mgzyz1.com/api.php/provide/vod/at/xml¡±
+  "key": "??èŠ’æœ",
+  "name": "??èŠ’æœ",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://mgzyz1.com/api.php/provide/vod/at/xmlâ€
 },
 {
-  "key": "??ÌÒÉ«",
-  "Ãû³Æ": "??ÌÒÉ«",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°https://cj.taoseapi.com/inc/api.php¡±
+  "key": "??æ¡ƒè‰²",
+  "åç§°": "??æ¡ƒè‰²",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://cj.taoseapi.com/inc/api.phpâ€
 },
 {
-  "key": "??SÃ¨×ÊÔ´",
-  "name": "??SÃ¨×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°https://api.maozyapi.com/inc/api.php¡±
+  "key": "??SçŒ«èµ„æº",
+  "name": "??SçŒ«èµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://api.maozyapi.com/inc/api.phpâ€
 },
 {
-  "key": "??ÀÏÑ¼",
-  "name": "??ÀÏÑ¼",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://laoyazy5.com/api.php/provide/vod/at/xml¡±
+  "key": "??è€é¸­",
+  "name": "??è€é¸­",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://laoyazy5.com/api.php/provide/vod/at/xmlâ€
 },
 {
-  "key": "??BB×ÊÔ´",
-  "name": "??BB×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://bbzy.cc/inc/maccms10.php¡±
+  "key": "??BBèµ„æº",
+  "name": "??BBèµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://bbzy.cc/inc/maccms10.phpâ€
 },
 {
   "key": "??100ai",
-  "Ãû³Æ": "??100ai",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://www.010aizy.com/API/maxs.php¡±
+  "åç§°": "??100ai",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://www.010aizy.com/API/maxs.phpâ€
 },
 {
-  "key": "??¾Å¾Å×ÊÔ´°É",
-  "name": "??¾Å¾Å×ÊÔ´°É",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://99zyba.com/api.php/provide/vod/at/xml¡±
+  "key": "??ä¹ä¹èµ„æºå§",
+  "name": "??ä¹ä¹èµ„æºå§",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://99zyba.com/api.php/provide/vod/at/xmlâ€
 },
 {
-  "key": "??É§É«×ÊÔ´",
-  "name": "??É§É«×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º1£¬
-  ¡°api¡±£º¡°http://api.saosezy.icu/api.php/provide/vod/¡±
+  "key": "??éªšè‰²èµ„æº",
+  "name": "??éªšè‰²èµ„æº",
+  â€œç±»å‹â€ï¼š1ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://api.saosezy.icu/api.php/provide/vod/â€
 },
 {
-  "key": "??ËÙ²¥×ÊÔ´",
-  "name": "??ËÙ²¥×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º1£¬
-  ¡°api¡±£º¡°http://api.suboapi.com/api.php/provide/vod/¡±
+  "key": "??é€Ÿæ’­èµ„æº",
+  "name": "??é€Ÿæ’­èµ„æº",
+  â€œç±»å‹â€ï¼š1ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://api.suboapi.com/api.php/provide/vod/â€
 },
 {
-  "key": "??±«ÓãBB",
-  "name": "??±«ÓãBB",
-  ¡°ÀàĞÍ¡±£º0£¬
+  "key": "??é²é±¼BB",
+  "name": "??é²é±¼BB",
+  â€œç±»å‹â€ï¼š0ï¼Œ
   "api": "http://baoyub.live/inc/api.php"
 },
 {
-  "key": "??Ò»±¾D×ÊÔ´",
-  "name": "??Ò»±¾D×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://caiji03.com/home/cjapi/44f683a84163b3523afe57c2e008bc8c/vod/xml¡±
+  "key": "??ä¸€æœ¬Dèµ„æº",
+  "name": "??ä¸€æœ¬Dèµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://caiji03.com/home/cjapi/44f683a84163b3523afe57c2e008bc8c/vod/xmlâ€
 },
 {
-  "key": "??Âé¶¹ÊÓÆµ",
-  "Ãû³Æ": "??Âé¶¹ÊÓÆµ",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://caiji04.com/home/cjapi/03afdbd66e7929b125f8597834fa83a4/vod/xml¡±
+  "key": "??éº»è±†è§†é¢‘",
+  "åç§°": "??éº»è±†è§†é¢‘",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://caiji04.com/home/cjapi/03afdbd66e7929b125f8597834fa83a4/vod/xmlâ€
 },
 {
-  "key": "??ÇàÇà²İÊÓÆµ",
-  "name": "??ÇàÇà²İÊÓÆµ",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://caiji05.com/home/cjapi/ea5d2f1c4608232e07d3aa3d998e5135/vod/xml¡±
+  "key": "??é’é’è‰è§†é¢‘",
+  "name": "??é’é’è‰è§†é¢‘",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://caiji05.com/home/cjapi/ea5d2f1c4608232e07d3aa3d998e5135/vod/xmlâ€
 },
 {
-  "key": "??¾Ã¾ÃÈÈÔÚÏß",
-  "name": "??¾Ã¾ÃÈÈÔÚÏß",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://caiji06.com/home/cjapi/fc490ca45c00b1249bbe3554a4fdf6fb/vod/xml¡±
+  "key": "??ä¹…ä¹…çƒ­åœ¨çº¿",
+  "name": "??ä¹…ä¹…çƒ­åœ¨çº¿",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://caiji06.com/home/cjapi/fc490ca45c00b1249bbe3554a4fdf6fb/vod/xmlâ€
 },
 {
-  "key": "??ÈÕ±¾AVÔÚÏß",
-  "name": "??ÈÕ±¾AVÔÚÏß",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://caiji07.com/home/cjapi/3295c76acbf4caaed33c36b1b5fc2cb1/vod/xml¡±
+  "key": "??æ—¥æœ¬AVåœ¨çº¿",
+  "name": "??æ—¥æœ¬AVåœ¨çº¿",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://caiji07.com/home/cjapi/3295c76acbf4caaed33c36b1b5fc2cb1/vod/xmlâ€
 },
 {
-  "key": "??±«ÓãAV",
-  "name": "??±«ÓãAV",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://caiji26.com/home/cjapi/9778d5d219c5080b9a6a17bef029331c/vod/xml¡±
+  "key": "??é²é±¼AV",
+  "name": "??é²é±¼AV",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://caiji26.com/home/cjapi/9778d5d219c5080b9a6a17bef029331c/vod/xmlâ€
 },
 {
-  "key": "??°®Âé¶¹",
-  "name": "??°®Âé¶¹",
-  ¡°ÀàĞÍ¡±£º1£¬
+  "key": "??çˆ±éº»è±†",
+  "name": "??çˆ±éº»è±†",
+  â€œç±»å‹â€ï¼š1ï¼Œ
   "api": "http://emodao.la/api.php/provide/vod/"
 },
 {
-  "key": "??EU×ÊÔ´",
-  "name": "??EU×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º1£¬
-  ¡°api¡±£º¡°http://euzy9.xyz/api.php/provide/vod/¡±
+  "key": "??EUèµ„æº",
+  "name": "??EUèµ„æº",
+  â€œç±»å‹â€ï¼š1ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://euzy9.xyz/api.php/provide/vod/â€
 },
 {
-  "key": "??ÀË³±×ÊÔ´",
-  "name": "??ÀË³±×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º1£¬
+  "key": "??æµªæ½®èµ„æº",
+  "name": "??æµªæ½®èµ„æº",
+  â€œç±»å‹â€ï¼š1ï¼Œ
   "api": "http://langchaozy6.com/api.php/provide/vod/"
 },
 {
   "key": "??800188188",
-  "Ãû³Æ": "??800188188",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://www.800188188.com/inc/api.php¡±
+  "åç§°": "??800188188",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://www.800188188.com/inc/api.phpâ€
 },
 {
-  "key": "??92°®×ÊÔ´",
-  "name": "??92°®×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://www.92aizy.com/api/macs.php¡±
+  "key": "??92çˆ±èµ„æº",
+  "name": "??92çˆ±èµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://www.92aizy.com/api/macs.phpâ€
 },
 {
-  "key": "??ÌìààÀ²×ÊÔ´",
-  "name": "??ÌìààÀ²×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
+  "key": "??å¤©å™œå•¦èµ„æº",
+  "name": "??å¤©å™œå•¦èµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
   "api": "http://www.987caiji.com/api/max.php"
 },
 {
-  "key": "??¿ì²¥×ÊÔ´",
-  "name": "??¿ì²¥×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://www.caiji09.com/home/cjapi/a3f390d88e4c41f2747bfa2f1b5f87db/vod/xml¡±
+  "key": "??å¿«æ’­èµ„æº",
+  "name": "??å¿«æ’­èµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://www.caiji09.com/home/cjapi/a3f390d88e4c41f2747bfa2f1b5f87db/vod/xmlâ€
 },
 {
-  "key": "??ÎÒÒªÅ¾Å¾",
-  "name": "??ÎÒÒªÅ¾Å¾",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://www.caiji21.com/home/cjapi/28dd2c7955ce926456240b2ff0100bde/vod/xml¡±
+  "key": "??æˆ‘è¦å•ªå•ª",
+  "name": "??æˆ‘è¦å•ªå•ª",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://www.caiji21.com/home/cjapi/28dd2c7955ce926456240b2ff0100bde/vod/xmlâ€
 },
 {
-  "key": "??´óDË¿×ÊÔ´",
-  "name": "??´óDË¿×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://www.caiji24.com/home/cjapi/f033ab37c30201f73f142449d037028d/vod/xml¡±
+  "key": "??å¤§Dä¸èµ„æº",
+  "name": "??å¤§Dä¸èµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://www.caiji24.com/home/cjapi/f033ab37c30201f73f142449d037028d/vod/xmlâ€
 },
 {
-  "key": "??ßäßä×ÊÔ´",
-  "name": "??ßäßä×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://www.caiji25.com/home/cjapi/43ec517d68b6edd3015b3edc9a11367b/vod/xml¡±
+  "key": "??å’ªå’ªèµ„æº",
+  "name": "??å’ªå’ªèµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://www.caiji25.com/home/cjapi/43ec517d68b6edd3015b3edc9a11367b/vod/xmlâ€
 },
 {
-  "key": "??À±½·×ÊÔ´",
-  "name": "??À±½·×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º1£¬
+  "key": "??è¾£æ¤’èµ„æº",
+  "name": "??è¾£æ¤’èµ„æº",
+  â€œç±»å‹â€ï¼š1ï¼Œ
   "api": "http://www.lajiaozy18.com/api.php/provide/vod?ac=list"
 },
 {
-  "key": "??ÌìÌÃAV",
-  "name": "??ÌìÌÃAV",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://www.njxinli.com/inc/api.php¡±
+  "key": "??å¤©å ‚AV",
+  "name": "??å¤©å ‚AV",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://www.njxinli.com/inc/api.phpâ€
 },
 {
-  "key": "??RÆŞ×ÊÔ´",
-  "name": "??RÆŞ×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://www.yrqcaiji.com/home/cjapi/98dce83da57b0395e163467c9dae521b/vod/xml¡±
+  "key": "??Rå¦»èµ„æº",
+  "name": "??Rå¦»èµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://www.yrqcaiji.com/home/cjapi/98dce83da57b0395e163467c9dae521b/vod/xmlâ€
 },
 {
-  "key": "??Ğ¡´¦N×ÊÔ´",
-  "name": "??Ğ¡´¦N×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://xcncaiji.com/home/cjapi/812b4ba287f5ee0bc9d43bbf5bbe87fb/vod/xml¡±
+  "key": "??å°å¤„Nèµ„æº",
+  "name": "??å°å¤„Nèµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://xcncaiji.com/home/cjapi/812b4ba287f5ee0bc9d43bbf5bbe87fb/vod/xmlâ€
 },
 {
-  "key": "??¾Ã²İÔÚÏßÊÓÆµ",
-  "name": "??¾Ã²İÔÚÏßÊÓÆµ",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°https://hhjc2.com/sapi/?ac=videolist¡±
+  "key": "??ä¹…è‰åœ¨çº¿è§†é¢‘",
+  "name": "??ä¹…è‰åœ¨çº¿è§†é¢‘",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://hhjc2.com/sapi/?ac=videolistâ€
 },
 {
-  "key": "??³ÕººÍÅ",
-  "name": "??³ÕººÍÅ",
-  ¡°ÀàĞÍ¡±£º1£¬
-  ¡°api¡±£º¡°https://javcaptain.com/api.php/provide/vod/¡±
+  "key": "??ç—´æ±‰å›¢",
+  "name": "??ç—´æ±‰å›¢",
+  â€œç±»å‹â€ï¼š1ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://javcaptain.com/api.php/provide/vod/â€
 },
 {
-  "key": "??èÖÃÈÊÓÆµ",
-  "name": "??èÖÃÈÊÓÆµ",
-  ¡°ÀàĞÍ¡±£º1£¬
-  ¡°api¡±£º¡°https://nameweb.xyz/api.php/provide/vod/¡±
+  "key": "??æŸšèŒè§†é¢‘",
+  "name": "??æŸšèŒè§†é¢‘",
+  â€œç±»å‹â€ï¼š1ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://nameweb.xyz/api.php/provide/vod/â€
 },
 {
-  "key": "??¾«¹¤¹¤³§",
-  "name": "??¾«¹¤¹¤³§",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°https://www.016caiji.com/home/cjapi/7cbbc409ec990f19c78c75bd1e06f215/vod/xml¡±
+  "key": "??ç²¾å·¥å·¥å‚",
+  "name": "??ç²¾å·¥å·¥å‚",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://www.016caiji.com/home/cjapi/7cbbc409ec990f19c78c75bd1e06f215/vod/xmlâ€
 },
 {
-  "key": "??¶¶ÒõÊÓÆµ",
-  "name": "??¶¶ÒõÊÓÆµ",
-  ¡°ÀàĞÍ¡±£º1£¬
-  ¡°api¡±£º¡°https://www.888dav.com/api.php/provide/vod/¡±
+  "key": "??æŠ–é˜´è§†é¢‘",
+  "name": "??æŠ–é˜´è§†é¢‘",
+  â€œç±»å‹â€ï¼š1ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://www.888dav.com/api.php/provide/vod/â€
 },
 {
-  "key": "??¼ÑÈË×ÊÔ´",
-  "name": "??¼ÑÈË×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º1£¬
-  ¡°api¡±£º¡°https://www.951c.tk/api.php/provide/vod/¡±
+  "key": "??ä½³äººèµ„æº",
+  "name": "??ä½³äººèµ„æº",
+  â€œç±»å‹â€ï¼š1ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://www.951c.tk/api.php/provide/vod/â€
 },
 {
-  "key": "??AE86×ÊÔ´",
-  "name": "??AE86×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º1£¬
-  ¡°api¡±£º¡°https://www.ae86zy.com/api.php/provide/vod/¡±
+  "key": "??AE86èµ„æº",
+  "name": "??AE86èµ„æº",
+  â€œç±»å‹â€ï¼š1ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://www.ae86zy.com/api.php/provide/vod/â€
 },
 {
-  "key": "??ÑÇÖŞÔÚÏß",
-  "name": "??ÑÇÖŞÔÚÏß",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°https://www.caiji01.com/home/cjapi/072b030ba126b2f4b2374f342be9ed44/vod/xml¡±
+  "key": "??äºšæ´²åœ¨çº¿",
+  "name": "??äºšæ´²åœ¨çº¿",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://www.caiji01.com/home/cjapi/072b030ba126b2f4b2374f342be9ed44/vod/xmlâ€
 },
 {
-  "key": "??²İÁñÊÓÆµ",
-  "name": "??²İÁñÊÓÆµ",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°https://www.caiji02.com/home/cjapi/7f39f8317fbdb1988ef4c628eba02591/vod/xml¡±
+  "key": "??è‰æ¦´è§†é¢‘",
+  "name": "??è‰æ¦´è§†é¢‘",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://www.caiji02.com/home/cjapi/7f39f8317fbdb1988ef4c628eba02591/vod/xmlâ€
 },
 {
-  "key": "??´óÏã½¶×ÊÔ´",
-  "name": "??´óÏã½¶×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°https://www.caiji08.com/home/cjapi/735b90b4568125ed6c3f678819b6e058/vod/xml¡±
+  "key": "??å¤§é¦™è•‰èµ„æº",
+  "name": "??å¤§é¦™è•‰èµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://www.caiji08.com/home/cjapi/735b90b4568125ed6c3f678819b6e058/vod/xmlâ€
 },
 {
-  "key": "??»Æ¹ÏµçÊÓ×ÊÔ´",
-  "name": "??»Æ¹ÏµçÊÓ×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°https://www.caiji10.com/home/cjapi/14bfa6bb14875e45bba028a21ed38046/vod/xml¡±
+  "key": "??é»„ç“œç”µè§†èµ„æº",
+  "name": "??é»„ç“œç”µè§†èµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://www.caiji10.com/home/cjapi/14bfa6bb14875e45bba028a21ed38046/vod/xmlâ€
 },
 {
-  "key": "??AV¼¯ÖĞÓª",
-  "name": "??AV¼¯ÖĞÓª",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°https://www.caiji22.com/home/cjapi/35f4a8d465e6e1edc05f3d8ab658c551/vod/xml¡±
+  "key": "??AVé›†ä¸­è¥",
+  "name": "??AVé›†ä¸­è¥",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://www.caiji22.com/home/cjapi/35f4a8d465e6e1edc05f3d8ab658c551/vod/xmlâ€
 },
 {
-  "key": "??Ò¹ß£×ÊÔ´",
-  "name": "??Ò¹ß£×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°https://www.caiji23.com/home/cjapi/d1fe173d08e959397adf34b1d77e88d7/vod/xml¡±
+  "key": "??å¤œæ’¸èµ„æº",
+  "name": "??å¤œæ’¸èµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://www.caiji23.com/home/cjapi/d1fe173d08e959397adf34b1d77e88d7/vod/xmlâ€
 },
 {
-  "key": "??Ë®Á±¶´×ÊÔ´",
-  "name": "??Ë®Á±¶´×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°https://www.sldcaiji.com/home/cjapi/f4b9ec30ad9f68f89b29639786cb62ef/vod/xml¡±
+  "key": "??æ°´å¸˜æ´èµ„æº",
+  "name": "??æ°´å¸˜æ´èµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://www.sldcaiji.com/home/cjapi/f4b9ec30ad9f68f89b29639786cb62ef/vod/xmlâ€
 },
 {
-  "key": "??ÓÅ¹û×ÊÔ´",
-  "name": "??ÓÅ¹û×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°https://www.ugirl6.com/inc/zyapimac.php¡±
+  "key": "??ä¼˜æœèµ„æº",
+  "name": "??ä¼˜æœèµ„æº",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://www.ugirl6.com/inc/zyapimac.phpâ€
 },
 {
-  "key": "??ÓÅ¹û",
-  "name": "??ÓÅ¹û",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°https://www.ugvapi.com/inc/zyapimac.php¡±
+  "key": "??ä¼˜æœ",
+  "name": "??ä¼˜æœ",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://www.ugvapi.com/inc/zyapimac.phpâ€
 },
 {
-  "key": "??ÈôÃÎÓ°ÊÓ",
-  "name": "??ÈôÃÎÓ°ÊÓ",
-  ¡°ÀàĞÍ¡±£º1£¬
-  ¡°api¡±£º¡°http://47.106.80.129/api.php/provide/vod?ac=list¡±
+  "key": "??è‹¥æ¢¦å½±è§†",
+  "name": "??è‹¥æ¢¦å½±è§†",
+  â€œç±»å‹â€ï¼š1ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://47.106.80.129/api.php/provide/vod?ac=listâ€
 },
 {
-  "key": "??°Ù¶È×ÊÔ´",
-  "name": "??°Ù¶È×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º1£¬
-  ¡°api¡±£º¡°http://llbdzy.com/api.php/provide/vod?ac=list¡±
+  "key": "??ç™¾åº¦èµ„æº",
+  "name": "??ç™¾åº¦èµ„æº",
+  â€œç±»å‹â€ï¼š1ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://llbdzy.com/api.php/provide/vod?ac=listâ€
 },
 {
-  "key": "??99 ×ÊÔ´",
-  "name": "??99×ÊÔ´",
-  ¡°ÀàĞÍ¡±£º1£¬
-  ¡°api¡±£º¡°http://99zy.pw/api.php/provide/vod/¡±
+  "key": "??99 èµ„æº",
+  "name": "??99èµ„æº",
+  â€œç±»å‹â€ï¼š1ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://99zy.pw/api.php/provide/vod/â€
 },
 {
-  "key": "??»¨½·",
-  "name": "??»¨½·",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°https://cj.apihjzy.com/inc/api.php¡±
+  "key": "??èŠ±æ¤’",
+  "name": "??èŠ±æ¤’",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttps://cj.apihjzy.com/inc/api.phpâ€
 },
 {
-  ¡°¹Ø¼ü¡±£º¡°??88¡±£¬
-  "Ãû³Æ": "??88",
-  ¡°ÀàĞÍ¡±£º0£¬
-  ¡°api¡±£º¡°http://www.88zy.live/inc/api.php¡±
+  â€œå…³é”®â€ï¼šâ€œ??88â€ï¼Œ
+  "åç§°": "??88",
+  â€œç±»å‹â€ï¼š0ï¼Œ
+  â€œapiâ€ï¼šâ€œhttp://www.88zy.live/inc/api.phpâ€
 }
 
 
 ],
 
-¡°Éú»î¡±£º[
+â€œç”Ÿæ´»â€ï¼š[
     {
-      ¡°×é¡±£º¡°ÖØ¶¨Ïò¡±£¬
-      ¡°ÇşµÀ¡±£º[
+      â€œç»„â€ï¼šâ€œé‡å®šå‘â€ï¼Œ
+      â€œæ¸ é“â€ï¼š[
         {
-          ¡°Ãû³Æ¡±£º¡°ÖØ¶¨Ïò¡±£¬
-          ¡°ÍøÖ·¡±£º[
+          â€œåç§°â€ï¼šâ€œé‡å®šå‘â€ï¼Œ
+          â€œç½‘å€â€ï¼š[
             "proxy://do=live&type=txt&ext=aHR0cHM6Ly9mbHlpbmctZ3V5cy5jb2RpbmcubmV0L3AvbWFvL2QvamFyL2dpdC9yYXcvbWFzdGVyL2xpdmUvbXl0di50eHQ="
           ]
         }
@@ -601,194 +599,194 @@
     }
   ],
 
-  "flags": ["ÓÅ¿á","qq","°®ÆæÒÕ","ÆæÒÕ","ÀÖÊÓ","ËÑºü","ÍÁ¶¹","pptv","mgtv","wasu","bilibili","Î÷¹Ï","ÈËÈËÃ×","ltnb","CL4K","rx","dmplay","duoduozy","xfyun"],
+  "flags": ["ä¼˜é…·","qq","çˆ±å¥‡è‰º","å¥‡è‰º","ä¹è§†","æœç‹","åœŸè±†","pptv","mgtv","wasu","bilibili","è¥¿ç“œ","äººäººç±³","ltnb","CL4K","rx","dmplay","duoduozy","xfyun"],
 
-  ¡°½âÎö¡±£º[
-{"name":"×Ô¶¯½âÎö","type":3,"url":"Demo"},
-{"name": "×Ô¶¯ÏßÂ·","type": 2,"url": "Parallel"},
-{"name":"ÏßÂ·1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag": ["qiyi","qq","ÀÖÊÓ","ËÑºü","ÓÅ¿á","mgtv","bilibili","wasu","Î÷¹Ï","1905"]}},
-{"name":"ÏßÂ·2","url":"http://81.71.48.249:4456/jsonc/293shipin.php?url=","type":1,"i":"77",
-"ext":{"flag":["qiyi","°®ÆæÒÕ","ÆæÒÕ","qq","ÌÚÑ¶","ÓÅ¿á","ÓÅ¿á","pptv","PPTV"," letv","ÀÖÊÓ","bilibili","ßÙÁ¨ßÙÁ¨","ßÙÁ¨","mgtv","Ã¢¹û"]}
+  â€œè§£æâ€ï¼š[
+{"name":"è‡ªåŠ¨è§£æ","type":3,"url":"Demo"},
+{"name": "è‡ªåŠ¨çº¿è·¯","type": 2,"url": "Parallel"},
+{"name":"çº¿è·¯1","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","ext":{"flag": ["qiyi","qq","ä¹è§†","æœç‹","ä¼˜é…·","mgtv","bilibili","wasu","è¥¿ç“œ","1905"]}},
+{"name":"çº¿è·¯2","url":"http://81.71.48.249:4456/jsonc/293shipin.php?url=","type":1,"i":"77",
+"ext":{"flag":["qiyi","çˆ±å¥‡è‰º","å¥‡è‰º","qq","è…¾è®¯","ä¼˜é…·","ä¼˜é…·","pptv","PPTV"," letv","ä¹è§†","bilibili","å“”å“©å“”å“©","å“”å“©","mgtv","èŠ’æœ"]}
 },
-{"name":"ÏßÂ·3","type":1,"url":"http://106.55.234.91:4433/?url=","ext":{"flag":["qiyi", "qq","ÀÖÊÓ","ËÑºü","ÓÅ¿á","mgtv","bilibili","wasu","Î÷¹Ï","1905"]}},
-{"name": "ÏßÂ·4","type": 1,"url": "http://81.71.48.249:4456/jsonc/longxia.php?url=","ext": {"flag": ["qq","qiyi","mgtv","ÓÅ¿á","ÀÖÊÓ","ËÑºü","Î÷¹Ï","1905"],"header":{"User-Agent":"Dart/2.14(·ÉïÚ£ºio)"}}}
+{"name":"çº¿è·¯3","type":1,"url":"http://106.55.234.91:4433/?url=","ext":{"flag":["qiyi", "qq","ä¹è§†","æœç‹","ä¼˜é…·","mgtv","bilibili","wasu","è¥¿ç“œ","1905"]}},
+{"name": "çº¿è·¯4","type": 1,"url": "http://81.71.48.249:4456/jsonc/longxia.php?url=","ext": {"flag": ["qq","qiyi","mgtv","ä¼˜é…·","ä¹è§†","æœç‹","è¥¿ç“œ","1905"],"header":{"User-Agent":"Dart/2.14(é£é•–ï¼šio)"}}}
 
 
 
   ],
-  ¡°ÒÁ¿Ë¡±£º[
+  â€œä¼Šå…‹â€ï¼š[
     {
-      "group": "Èí½âÂë",
-      ¡°Ñ¡Ïî¡±£º [
+      "group": "è½¯è§£ç ",
+      â€œé€‰é¡¹â€ï¼š [
         {
-          ¡°Àà±ğ¡±£º4£¬
-          ¡°Ãû³Æ¡±£º¡°opensles¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°0¡±
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
+          â€œåç§°â€ï¼šâ€œopenslesâ€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ0â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
-          ¡°Ãû³Æ¡±£º¡°¸²¸Ç¸ñÊ½¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°842225234¡±
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
+          â€œåç§°â€ï¼šâ€œè¦†ç›–æ ¼å¼â€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ842225234â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
-          ¡°Ãû³Æ¡±£º¡°Ö¡¶ªÆú¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°1¡±
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
+          â€œåç§°â€ï¼šâ€œå¸§ä¸¢å¼ƒâ€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ1â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
-          ¡°Ãû³Æ¡±£º¡°ÉùÒô´¥¸Ğ¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°1¡±
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
+          â€œåç§°â€ï¼šâ€œå£°éŸ³è§¦æ„Ÿâ€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ1â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
-          "name": "¿ªÊ¼×¼±¸",
-          ¡°¼ÛÖµ¡±£º¡°1¡±
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
+          "name": "å¼€å§‹å‡†å¤‡",
+          â€œä»·å€¼â€ï¼šâ€œ1â€
         },
         {
-          ¡°Àà±ğ¡±£º1£¬
+          â€œç±»åˆ«â€ï¼š1ï¼Œ
           "name": "http-detect-range-support",
-          ¡°¼ÛÖµ¡±£º¡°0¡±
+          â€œä»·å€¼â€ï¼šâ€œ0â€
         },
         {
-          ¡°Àà±ğ¡±£º1£¬
-          ¡°Ãû³Æ¡±£º¡°±êÖ¾¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°¿ìËÙËÑË÷¡±
+          â€œç±»åˆ«â€ï¼š1ï¼Œ
+          â€œåç§°â€ï¼šâ€œæ ‡å¿—â€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œå¿«é€Ÿæœç´¢â€
         },
         {
-          ¡°Àà±ğ¡±£º2£¬
-          ¡°Ãû³Æ¡±£º¡°skip_loop_filter¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°48¡±
+          â€œç±»åˆ«â€ï¼š2ï¼Œ
+          â€œåç§°â€ï¼šâ€œskip_loop_filterâ€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ48â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
-          ¡°Ãû³Æ¡±£º¡°ÖØĞÂÁ¬½Ó¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°1¡±
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
+          â€œåç§°â€ï¼šâ€œé‡æ–°è¿æ¥â€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ1â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
-          ¡°Ãû³Æ¡±£º¡°×î´ó»º³åÇø´óĞ¡¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°5242880¡±
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
+          â€œåç§°â€ï¼šâ€œæœ€å¤§ç¼“å†²åŒºå¤§å°â€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ5242880â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
-          ¡°Ãû³Æ¡±£º¡°ÆôÓÃ×¼È·ËÑË÷¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°0¡±
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
+          â€œåç§°â€ï¼šâ€œå¯ç”¨å‡†ç¡®æœç´¢â€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ0â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
-          ¡°Ãû³Æ¡±£º¡°Ã½Ìå±à½âÂëÆ÷¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°0¡±
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
+          â€œåç§°â€ï¼šâ€œåª’ä½“ç¼–è§£ç å™¨â€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ0â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
           "name": "mediacodec-auto-rotate",
-          ¡°¼ÛÖµ¡±£º¡°0¡±
+          â€œä»·å€¼â€ï¼šâ€œ0â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
           "name": "mediacodec-handle-resolution-change",
-          ¡°¼ÛÖµ¡±£º¡°0¡±
+          â€œä»·å€¼â€ï¼šâ€œ0â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
-          ¡°Ãû³Æ¡±£º¡°Ã½Ìå±à½âÂëÆ÷-hevc¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°0¡±
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
+          â€œåç§°â€ï¼šâ€œåª’ä½“ç¼–è§£ç å™¨-hevcâ€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ0â€
         },
         {
-          ¡°Àà±ğ¡±£º1£¬
-          ¡°Ãû³Æ¡±£º¡°dns_cache_timeout¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°600000000¡±
+          â€œç±»åˆ«â€ï¼š1ï¼Œ
+          â€œåç§°â€ï¼šâ€œdns_cache_timeoutâ€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ600000000â€
         }
       ]
     },
     {
-      ¡°×é¡±£º¡°Ó²½âÂë¡±£¬
-      ¡°Ñ¡Ïî¡±£º [
+      â€œç»„â€ï¼šâ€œç¡¬è§£ç â€ï¼Œ
+      â€œé€‰é¡¹â€ï¼š [
         {
-          ¡°Àà±ğ¡±£º4£¬
-          ¡°Ãû³Æ¡±£º¡°opensles¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°0¡±
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
+          â€œåç§°â€ï¼šâ€œopenslesâ€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ0â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
-          ¡°Ãû³Æ¡±£º¡°¸²¸Ç¸ñÊ½¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°842225234¡±
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
+          â€œåç§°â€ï¼šâ€œè¦†ç›–æ ¼å¼â€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ842225234â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
-          ¡°Ãû³Æ¡±£º¡°Ö¡¶ªÆú¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°1¡±
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
+          â€œåç§°â€ï¼šâ€œå¸§ä¸¢å¼ƒâ€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ1â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
-          ¡°Ãû³Æ¡±£º¡°ÉùÒô´¥¸Ğ¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°1¡±
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
+          â€œåç§°â€ï¼šâ€œå£°éŸ³è§¦æ„Ÿâ€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ1â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
-          "name": "¿ªÊ¼×¼±¸",
-          ¡°¼ÛÖµ¡±£º¡°1¡±
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
+          "name": "å¼€å§‹å‡†å¤‡",
+          â€œä»·å€¼â€ï¼šâ€œ1â€
         },
         {
-          ¡°Àà±ğ¡±£º1£¬
+          â€œç±»åˆ«â€ï¼š1ï¼Œ
           "name": "http-detect-range-support",
-          ¡°¼ÛÖµ¡±£º¡°0¡±
+          â€œä»·å€¼â€ï¼šâ€œ0â€
         },
         {
-          ¡°Àà±ğ¡±£º1£¬
-          ¡°Ãû³Æ¡±£º¡°±êÖ¾¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°¿ìËÙËÑË÷¡±
+          â€œç±»åˆ«â€ï¼š1ï¼Œ
+          â€œåç§°â€ï¼šâ€œæ ‡å¿—â€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œå¿«é€Ÿæœç´¢â€
         },
         {
-          ¡°Àà±ğ¡±£º2£¬
-          ¡°Ãû³Æ¡±£º¡°skip_loop_filter¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°48¡±
+          â€œç±»åˆ«â€ï¼š2ï¼Œ
+          â€œåç§°â€ï¼šâ€œskip_loop_filterâ€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ48â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
-          ¡°Ãû³Æ¡±£º¡°ÖØĞÂÁ¬½Ó¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°1¡±
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
+          â€œåç§°â€ï¼šâ€œé‡æ–°è¿æ¥â€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ1â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
-          ¡°Ãû³Æ¡±£º¡°×î´ó»º³åÇø´óĞ¡¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°5242880¡±
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
+          â€œåç§°â€ï¼šâ€œæœ€å¤§ç¼“å†²åŒºå¤§å°â€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ5242880â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
-          ¡°Ãû³Æ¡±£º¡°ÆôÓÃ×¼È·ËÑË÷¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°0¡±
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
+          â€œåç§°â€ï¼šâ€œå¯ç”¨å‡†ç¡®æœç´¢â€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ0â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
-          ¡°Ãû³Æ¡±£º¡°Ã½Ìå±à½âÂëÆ÷¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°1¡±
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
+          â€œåç§°â€ï¼šâ€œåª’ä½“ç¼–è§£ç å™¨â€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ1â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
           "name": "mediacodec-auto-rotate",
-          ¡°¼ÛÖµ¡±£º¡°1¡±
+          â€œä»·å€¼â€ï¼šâ€œ1â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
           "name": "mediacodec-handle-resolution-change",
-          ¡°¼ÛÖµ¡±£º¡°1¡±
+          â€œä»·å€¼â€ï¼šâ€œ1â€
         },
         {
-          ¡°Àà±ğ¡±£º4£¬
-          ¡°Ãû³Æ¡±£º¡°Ã½Ìå±à½âÂëÆ÷-hevc¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°1¡±
+          â€œç±»åˆ«â€ï¼š4ï¼Œ
+          â€œåç§°â€ï¼šâ€œåª’ä½“ç¼–è§£ç å™¨-hevcâ€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ1â€
         },
         {
-          ¡°Àà±ğ¡±£º1£¬
-          ¡°Ãû³Æ¡±£º¡°dns_cache_timeout¡±£¬
-          ¡°¼ÛÖµ¡±£º¡°600000000¡±
+          â€œç±»åˆ«â€ï¼š1ï¼Œ
+          â€œåç§°â€ï¼šâ€œdns_cache_timeoutâ€ï¼Œ
+          â€œä»·å€¼â€ï¼šâ€œ600000000â€
         }
       ]
     }
   ],
-  ¡°¹ã¸æ¡±£º[
+  â€œå¹¿å‘Šâ€ï¼š[
     "mimg.0c1q0l.cn",
     "www.googletagmanager.com",
     "www.google-analytics.com",
@@ -802,7 +800,7 @@
     "s23.cnzz.com",
     "z3.cnzz.com",
     "c.cnzz.com",
-    ¡°stj.v1vo.top¡±£¬
+    â€œstj.v1vo.topâ€ï¼Œ
     "z12.cnzz.com",
     "img.mosflower.cn",
     "tips.gamevvip.com",
@@ -814,7 +812,7 @@
     "s9.cnzz.com",
     "z6.cnzz.com",
     "um.cavuc.com",
-    ¡°mav.mavuz.com¡±,
+    â€œmav.mavuz.comâ€,
     "wofwk.aoidf3.com",
     "z5.cnzz.com",
     "xc.hubeijieshikj.cn",
@@ -844,9 +842,9 @@
     "videocloud.cn-hangzhou.log.aliyuncs.com",
     "www.92424.cn",
     "k.wudejia.com",
-    ¡°vivovip.mmszxc.top¡±£¬
+    â€œvivovip.mmszxc.topâ€ï¼Œ
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
-    ¡°cms.qdwght.com¡±
-  ]
+    â€œcms.qdwght.comâ€
+ "èœ˜è››": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/spider0601.txt", ]
 }
