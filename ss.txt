@@ -845,6 +845,6 @@
     “vivovip.mmszxc.top”，
     "qiu.xixiqiu.com",
     "cdnjs.hnfenxun.com",
-    “cms.qdwght.com”, ]
+    “cms.qdwght.com”],
  "蜘蛛": "https://raw.githubusercontents.com/liu673cn/mao/main/jar/spider0601.txt"
 }
