@@ -185,7 +185,7 @@
         {
             "key": "字",
             "name": "字(限)",
-            "type": 0,
+            "type": 1,
             "api": "http://zmcj88.com/sapi?ac=videolist",
             "searchable": 1,
             "quickSearch": 1,
