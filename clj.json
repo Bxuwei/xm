@@ -48,15 +48,45 @@
 {"key":"csp_xpath_nbys","name":"🏝泥巴(搭飞机)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 {"key":"小宝影院","name":"👶小宝影院(搭飞机)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101","name":"1️⃣If101(搭飞机)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
+      {
+  "key": "Gitcafe",
+  "name": "🐞小纸条",
+  "type": 3,
+  "api": "csp_GitCafe",
+  "searchable": 1,
+  "quickSearch": 1,
+  "filterable": 1,
+  "ext": "dcbc975ad0684eb5a498ecd1836272e6"
+ },
+        {
+      "key": "csp_xpath_哔嘀磁力",
+      "name": "🐛哔嘀磁力(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ftyyy.tk/MeowXP/biditd.json"
+    },
+    {
+      "key": "csp_xpath_音范丝磁力",
+      "name": "🐛音范丝磁力(XP)",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ftyyy.tk/MeowXP/yinfans.json"
+    },
 {
       "key": "csp_xpath_1024",
       "name": "🐛1024磁搜(XP)",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
-      "quickSearch": 0,
+      "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://ftyyy.tk/MeowXP/1024bt.json"
+      "ext": "https://bxuwei/github.io/xm/1024bt.json"
     },
 {"key": "csp_xpath_88kanqiu",
       "name": "⚽88看球(XP)",
