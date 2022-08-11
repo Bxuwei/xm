@@ -1,6 +1,16 @@
 {
     "spider": "https://breadmyth.github.io/tv/jar/wqcatyuanban.jar",
     "sites": [
+        {
+      "key": "csp_xpath_1024",
+      "name": "🐛1024磁搜(XP)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch":1,
+      "filterable": 0,
+      "ext": "https://bxuwei/github.io/xm/1024bt.json"
+    },
         {"key":"csp_xpath_扛把子影院","name":"扛把子影院(xpf)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://breadmyth.github.io/tv/MeowXP/扛把子影院(xpf).json"},
         { "key": "(18+)环亚资源", "name": "(18+不错)环亚资源", "type": 0, "api": "http://wmcj8.com/inc/sapi.php?ac=videolist", "searchable": 1, "quickSearch": 1, "filterable": 0 },
         { "key": "(18+)速度资源", "name": "(18+)速度资源", "type": 0, "api": "http://www.ggmmzy.com:9999/inc/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
