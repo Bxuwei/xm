@@ -14,79 +14,79 @@
          {
    
     "key": "xhgcjym",
-    "name": "小黄瓜资源","type": 0,
+    "name": "小黄瓜资源","type":1,
     "api": "http://cj.xhgcjym.com/inc/api.php",
     "searchable": 1, "quickSearch": 1, "filterable": 0 
   },
          {
              
     "key": "8090zy",
-    "name": "8090资源网","type": 0,
+    "name": "8090资源网","type":1,
     "api": "http://zy.yilans.net/api.php/provide/vod/at/xml/",
  " searchable":1,"quickSearch":1,"filterable":0
   },
            {
 
     "key": "rerezy",
-    "name": "热热资源","type": 0,
+    "name": "热热资源","type": 1,
     "api": "http://api.rereapi.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":0
  },
         {
     "key": "1WeZ6q",
-    "name": "83特殊.xxoo","type": 0,
+    "name": "83特殊.xxoo","type":1,
     "api": "https://www.xxohub3.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0
   
   },
          {
     "key": "khzy",
-    "name": "快活资源站","type": 0,
+    "name": "快活资源站","type":1,
     "api": "https://www.khzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0
  },
          {
     "key": "Tuyoxk",
-    "name": "90特殊.三合资源","type": 0,
+    "name": "90特殊.三合资源","type":1,
     "api": "https://www.3heyingshi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0
  },
           {
     "key": "WC3h0o",
-    "name": "93特殊.玉米资源","type": 0,
+    "name": "93特殊.玉米资源","type":1,
     "api": "http://api.cj644.com/inc/zyapimac.php","searchable":1,"quickSearch":1,"filterable":0
    },
         {
     "key": "dydyOa",
-    "name": "91特殊.大炮资源","type": 0, 
+    "name": "91特殊.大炮资源","type": 1, 
     "api": "http://dgdy.me/api.php/provide/vod/at/xml/","quickSearch":1,"filterable":0
   },
         {
     "key": "77raVf",
-  "name": "80特殊.云霸资源","type": 0, 
+  "name": "80特殊.云霸资源","type": 1, 
     "api": "http://cj.1234567bt.com/inc/ldg_sea.php","quickSearch":1,"filterable":0
     },
          {
     "key": "qz492Y",
-  "name": "86特殊.七七资源","type": 0,
+  "name": "86特殊.七七资源","type":1,
     "api": "https://www.77zyw.xyz/inc/api.php","searchable": 1, "quickSearch": 1, "filterable": 0 
   },
           {
     "key": "vJQZTA",
-    "name": "92特殊.独家资源","type": 0, 
+    "name": "92特殊.独家资源","type":1, 
     "api": "http://dujiazy3.com/api.php/provide/vod/at/xml/","searchable": 1, "quickSearch": 1, "filterable": 0 
   },
          {
     "key": "FyxUS8",
-    "name": "95特殊.35资源","type": 0, 
+    "name": "95特殊.35资源","type":1, 
     "api": "http://cj.35zycj.com/inc/zyapimac.php","searchable": 1, "quickSearch": 1, "filterable": 0 
   },
   {
     "key": "RRvupO",
-    "name": "96特殊.av88资源","type": 0, 
+    "name": "96特殊.av88资源","type":1, 
     "api": "http://m.7777688.com/inc/api.php","searchable": 1, "quickSearch": 1, "filterable": 0 
   },
  
 
   {
     "key": "77ziyuan",
-    "name": "77资源","type": 0, 
+    "name": "77资源","type":1, 
     "api": "https://www.77zyw.xyz/inc/seacmsapi.php","searchable": 1, "quickSearch": 1, "filterable": 0 
   },
 
