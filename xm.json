@@ -1,3 +1,4 @@
+// 源地址 -->https://liucn/box/m.json  https://cdn.staticaly.com/gh/ltxxjs/box2022-1/main/m.json https://ghproxy.com/https://raw.githubusercontent.com/ltxxjs/box2022-1/main/m.json 
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "spider":"https://raw.iqiq.io//ltxxjs/box2022-1/main/jar/904886.jar;md5;f528ad6de3436989a1d1e8e94ac990d4",
@@ -355,29 +356,6 @@
 {"name":"旋风","type":1,"url":"https://svip.iepig.com:4443/web/?key=fqWkhfSjVDI0vKhQee&url=","ext":{"flag":["xfyun"]}},
 {"name":"云海","type":1,"url":"https://php.cloudhai.cn/vip.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","sohu"]}}
 ],
-
-
-
-"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi","1905", "xigua","ltnb","CL4K"],
-"ijk":[
-{"group":"软解码","options":[
-{"category":4,"name":"opensles","value":"0"},
-{"category":4,"name":"overlay-format","value":"842225234"},
-{"category":4,"name":"framedrop","value":"1"},
-{"category":4,"name":"soundtouch","value":"1"},
-{"category":4,"name":"start-on-prepared","value":"1"},
-{"category":1,"name":"http-detect-range-support","value":"0"},
-{"category":1,"name":"fflags","value":"fastseek"},
-{"category":2,"name":"skip_loop_filter","value":"48"},
-{"category":4,"name":"reconnect","value":"1"},
-{"category":4,"name":"enable-accurate-seek","value":"0"},
-{"category":4,"name":"mediacodec","value":"0"},
-{"category":4,"name":"mediacodec-auto-rotate","value":"0"},
-{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},
-{"category":4,"name":"mediacodec-hevc","value":"0"},
-{"category":1,"name":"dns_cache_timeout","value":"600000000"}
-]},
-  
 "lives": [
 {
 "group": "redirect",
@@ -392,7 +370,7 @@
 //"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vbHR4eGpzL3RpbmdoYW8vcmF3L2JyYW5jaC9tYWluL1RoZVRWL2xpdmUyMDIyMDgxMC50eHQ="
 //"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbHR4eGpzL2JveDIwMjItMS9tYWluL3R2LzIwMjIwODI4LnR4dA=="
 ]}]}],
-
+"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
