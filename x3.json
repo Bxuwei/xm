@@ -1,23 +1,31 @@
 {
-//"spider":"https://raw.githubusercontents.com/ltxxjs/box2022-1/main/jar/0827.jar;md5;556f61ac1c13a3a3246dbe28afc592bd",
-
-"spider":"https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/JAR/0822w.jar",
-
+    "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vaG91eGlhbi9qc29uL3Jhdy9icmFuY2gvbWFzdGVyL2xpdmVzL0xpdmVBZHVsdC50eHQ="]}]}],
+"spider":"https://gitea.com/habao260/2/raw/branch/main/my_spider.jar",    
+    "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 // 直播
 "lives":
-[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vbHR4eGpzL3RpbmdoYW8vcmF3L2JyYW5jaC9tYWluL1RoZVRWLzIwMjIwODI4LnR4dA=="
-]}]}],
-"sites": [
-{"key":"csp_biubiu_麻豆传媒破解","name":"麻豆传媒破解(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/XB/麻豆传媒破解.json"},
-{"key":"csp_biubiu_爱看影院","name":"爱看影院(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/XB/爱看影院.json"},
-{"key":"csp_biubiu_玖爱视频","name":"玖爱视频(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/XB/玖爱视频.json"},
-{"key":"csp_biubiu_爱爱影视","name":"爱爱影视(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/XB/爱爱影视.json"},
-{"key":"csp_biubiu_GAOAA","name":"GAOAA(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/XB/GAOAA.json"},
-{"key":"csp_biubiu_香蕉视频","name":"香蕉视频(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/XB/香蕉视频.json"},
-{"key":"csp_biubiu_四虎影院","name":"四虎影院(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/XB/四虎影院.json"},
-{"key":"csp_biubiu_黄仓库","name":"黄仓库(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/XB/黄仓库.json"},
-{"key":"csp_biubiu_4K狗午夜版","name":"4K狗午夜版(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontents.com/zhanghong1983/TVBOXZY/main/XB/4K狗午夜版.json"},
+[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vTWlrZTkwNi96eWsvcmF3L2JyYW5jaC9tYWluL2xpdmVzLzE4VFYudHh0"]}]}],
 
+
+"sites": [
+{"key":"csp_Xiangjiao","name":"new香蕉","type":3,"api":"csp_Xiangjiao","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/ext/Xiangjiao.txt"},
+{"key":"csp_biubiu_香蕉国产传媒","name":"香蕉国产传媒(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/香蕉传媒.json"},
+{"key":"csp_biubiu_香蕉视频","name":"香蕉视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/香蕉视频.json"},
+{"key":"csp_biubiu_新香蕉","name":"新香蕉(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/新香蕉.json"},
+{"key":"csp_biubiu_新香蕉2","name":"新香蕉2(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/新香蕉2.json"},
+{"key":"csp_biubiu_爱看影院","name":"爱看影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/爱看影院.json"},
+{"key":"csp_biubiu_黄仓库","name":"黄仓库(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/黄仓库.json"},
+{"key":"csp_biubiu_黄颜仓库","name":"黄颜仓库(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/黄颜仓库.json"},
+{"key":"csp_biubiu_麻豆传媒","name":"麻豆传媒(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/麻豆传媒.json"},
+{"key":"csp_biubiu_麻豆AV","name":"麻豆AV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/麻豆AV.json"},
+{"key":"csp_biubiu_四虎影院","name":"四虎影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/四虎影院.json"},
+
+{"key":"csp_biubiu_4K狗午夜版","name":"4K狗午夜版(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/4K狗午夜版.json"},
+{"key":"csp_biubiu_聚优AV","name":"聚优AV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/聚优AV.json"},
+{"key":"csp_biubiu_GAOAA","name":"GAOAA(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/GAOAA.json"},
+{"key":"csp_biubiu_GimyTV","name":"GimyTV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/GimyTV.json"},
+{"key":"csp_appysv2_天天视频","name":"※天天视频(M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
+{"key": "*AIvin","name": "*AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
 {"key":"csp_xbb_2022xxj","name":"💪香蕉综合网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/18/2022xxj.json"},
 
 {"key":"csp_xbb_Gaoaa","name":"🍐大秀福利","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/liucn/box/raw/branch/main/sub/MeowXB/18/gaoaa.json"},
