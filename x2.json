@@ -1,25 +1,17 @@
-{"spider":"https://github.com/dudu774/gie/blob/main/jar/qiaoji0809.jar",
-//直播源Base64编码转换
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=Y2xhbjovL3R2Ym94L3R2L2xpdmUudHh0"]}]}],
-"wallpaper":"http://css.lc/api.php",
+{"spider":"https://gitcode.net/susu3211/market/-/raw/master/jar/xBPQ.jar;md5;871de556889f7ec8f60bdc4414eb3aa7",
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":[
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vYnJlYWRteXRoL3R2L3Jhdy9icmFuY2gvbWFpbi9saXZlL2h1eWEudHh0"
+]}]}],
   "sites": [
-{"key":"csp_biubiu_聚优国产传媒","name":"聚优国产传媒(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/dudu774/gie/blob/main/XB/%E8%81%9A%E4%BC%98%E5%9B%BD%E4%BA%A7%E4%BC%A0%E5%AA%92.json"},
-{"key":"csp_biubiu_聚优超清资源","name":"聚优超清资源(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/dudu774/gie/blob/main/XB/%E8%81%9A%E4%BC%98%E8%B6%85%E6%B8%85%E8%B5%84%E6%BA%90.json"},
-{"key":"csp_biubiu_聚优AV解说","name":"聚优AV解说(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/dudu774/gie/blob/main/XB/%E8%81%9A%E4%BC%98AV%E8%A7%A3%E8%AF%B4.json"},
-{"key":"csp_biubiu_聚优香蕉资源","name":"聚优香蕉资源(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/dudu774/gie/blob/main/XB/%E8%81%9A%E4%BC%98%E9%A6%99%E8%95%89%E8%B5%84%E6%BA%90.json"},
-{"key":"csp_biubiu_聚优桃花资源","name":"聚优桃花资源(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/dudu774/gie/blob/main/XB/%E8%81%9A%E4%BC%98%E6%A1%83%E8%8A%B1%E8%B5%84%E6%BA%90.json"},
-{"key":"csp_biubiu_聚优废柴网资源","name":"聚优废柴网资源(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/dudu774/gie/blob/main/XB/%E8%81%9A%E4%BC%98%E5%BA%9F%E6%9F%B4%E7%BD%91%E8%B5%84%E6%BA%90.json"},
-{"key":"csp_biubiu_聚优久久热资源","name":"聚优久久热资源(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/dudu774/gie/blob/main/XB/%E8%81%9A%E4%BC%98%E4%B9%85%E4%B9%85%E7%83%AD%E8%B5%84%E6%BA%90.json"},
-{"key":"csp_biubiu_麻豆传媒破解","name":"麻豆传媒破解(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/dudu774/gie/blob/main/XB/%E9%BA%BB%E8%B1%86%E4%BC%A0%E5%AA%92%E7%A0%B4%E8%A7%A3.json"},
-{"key":"csp_biubiu_新香蕉全站资源","name":"新香蕉全站资源(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/dudu774/gie/blob/main/XB/%E6%96%B0%E9%A6%99%E8%95%89%E5%85%A8%E7%AB%99%E8%B5%84%E6%BA%90.json"},
-{"key":"csp_biubiu_爱看影院","name":"爱看影院(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/dudu774/gie/blob/main/XB/%E7%88%B1%E7%9C%8B%E5%BD%B1%E9%99%A2.json"},
-{"key":"csp_biubiu_新香蕉","name":"新香蕉(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/dudu774/gie/blob/main/XB/%E6%96%B0%E9%A6%99%E8%95%89.json"},
-{"key":"csp_biubiu_新香蕉2","name":"新香蕉2(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/dudu774/gie/blob/main/XB/%E6%96%B0%E9%A6%99%E8%95%892.json"},
-{"key":"csp_biubiu_四虎影院","name":"四虎影院(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/dudu774/gie/blob/main/XB/%E5%9B%9B%E8%99%8E%E5%BD%B1%E9%99%A2.json"},
-{"key":"csp_biubiu_黄仓库","name":"黄仓库(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/dudu774/gie/blob/main/XB/%E9%BB%84%E4%BB%93%E5%BA%93.json"},
-{"key":"csp_biubiu_GAOAA","name":"GAOAA(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/dudu774/gie/blob/main/XB/GAOAA.json"},
-{"key":"csp_biubiu_香蕉视频","name":"香蕉视频(XB)️","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/dudu774/gie/blob/main/XB/%E9%A6%99%E8%95%89%E8%A7%86%E9%A2%91.json"},
-
+{"key": "csp_xBPQ_测试","name": "️测试(XB)","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "{\"免嗅\":\"1\",\"播放标题\":\"span>&&<\",\"播放数组\":\"class=\\\"module-play-list&&</div>\",\"分类\":\"实时直播$zb#中文字幕$xjzy#超清资源$cq#AV解说$avjs#国产传媒$gccm#久久综合$99re#废柴资源$fcw\",\"分类url\":\"https://www.2022xxj.com/gccm/index.php/md/{cateId}-{catePg}.html[firstPage=https://www.2022xxj.com/gccm/index.php/md/{cateId}.html\"}"},
+{"key":"csp_biubiu_测试","name":"新媒体(XB)","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/susu128/ztv/main/xinmeit.json","jar":"https://gitee.com/sutv/yst/raw/master/xyq0922.jar"},
+{"api":"csp_Hsck","ext":"https://www.javsee.men/","filterable":0,"key":"csp_Hsck","name":"黄色仓库(爬虫)","quickSearch":1,"searchable":1,"type":3,"jar":"https://gitee.com/sutv/yst/raw/master/xxx.jar"},
+{"key":"csp_biubiu_香蕉视频","name":"香蕉视频(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/susu128/ztv/main/xiangjxxx.json"},
+{"key":"csp_biubiu_爱看影院","name":"爱看影院(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/susu128/ztv/main/aikanxxx.json"},
+{"key":"csp_biubiu_麻豆传媒","name":"麻豆传媒(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/susu128/ztv/main/madouxxx.json"},
+{"key":"csp_biubiu_四虎影院","name":"四虎影院(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/susu128/ztv/main/sihuxxx.json"},
+{"key":"csp_biubiu_GAOAA","name":"GAOAA(XB)","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/susu128/ztv/main/gaoaaxxx.json"},
+{"key":"pwd_袜子","name":"袜子","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0},
 
 {"key":"亚洲成人在线","name":"亚洲成人在线(切)","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/json","searchable":1,"quickSearch":1},
 {"key":"草榴视频","name":"草榴视频(切)","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/json","searchable":1,"quickSearch":1},
