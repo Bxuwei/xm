@@ -13,7 +13,8 @@
 
 
 "sites":[
-
+  
+{"key":"csp_Hsck_222","name":"*黄色仓库(爬虫)","quickSearch":1,"searchable":1,"type":3,"api":"csp_Hsck","ext":"https://www.javsee.men/","filterable":0,"jar":"https://somnr123.github.io/-/Jar/18.jar"},
 {"key":"91md","name":"*🐞91麻豆","type":1,"api":"https://91md.me/api.php/provide/vod/from/mdm3u8/","searchable":1,"quickSearch":1,"filterable":0},
 
 {"key":"影库资源","name":"*🔞影库资源","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/","searchable":1,"quickSearch":1,"filterable":0},
