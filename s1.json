@@ -4,70 +4,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":
 ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaGFyZS5uaXRlMDcuY29tL2FwaS92My9maWxlL3NvdXJjZS8xMzUxOC9nZ2xpdmUudHh0P3NpZ249ZFBCcjhyME5RZHlJdFM4eUtCSFRodGN4ckNHaTZPOGtERnlSMkFNekc4ayUzRCUzQTA="]}]}],
   "sites":[{"key":"csp_Kunyu77","name":"🌤酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
-  {
-   "key": "dr_18av",
-   "name": "18av(道长)",
-   "type": 1,
-   "api": "https://drpy.owen10086.repl.co/vod?rule=18av&ext=txt/js/18/18av.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_banan",
-   "name": "banan(道长)",
-   "type": 1,
-   "api": "https://drpy.owen10086.repl.co/vod?rule=banan&ext=txt/js/18/banan.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
- {
-   "key": "dr_Missav",
-   "name": "Missav(道长)",
-   "type": 1,
-   "api": "https://drpy.owen10086.repl.co/vod?rule=Missav&ext=txt/js/18/Missav.js",
-   "searchable": 2,
-   "quickSearch": 0,
-  },
- {
-   "key": "dr_养端",
-   "name": "养端(道长)",
-   "type": 1,
-   "api": "https://drpy.owen10086.repl.co/vod?rule=养端&ext=txt/js/18/养端.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-  },
-  {
-   "key": "dr_吸瓜",
-   "name": "吸瓜(道长)",
-   "type": 1,
-   "api": "https://drpy.owen10086.repl.co/vod?rule=吸瓜&ext=txt/js/18/吸瓜.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
- },
- {
-   "key": "dr_朱古力",
-   "name": "朱古力(道长)",
-   "type": 1,
-   "api": "https://drpy.owen10086.repl.co/vod?rule=朱古力&ext=txt/js/18/朱古力.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
-
-},
-
-{
-   "key": "dr_玩偶姐姐",
-   "name": "玩偶姐姐(道长)",
-   "type": 1,
-   "api": "https://drpy.owen10086.repl.co/vod?rule=玩偶姐姐&ext=txt/js/18/玩偶姐姐.js",
-   "searchable": 2,
-   "quickSearch": 0,
-   "filterable": 0
- },
+ 
 {"key":"csp_AppTT","name":"🐰兔兔影院","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Kuaikan","name":"🔥快看影院","type": 3,"api":"csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
   {"key": "图图","name": "🔥图图(SP多线)","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1},
