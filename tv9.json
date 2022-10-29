@@ -6,12 +6,11 @@
              "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
 
   "sites":[
-  {"key": "py_douban","name": "🐦豆瓣影视","type": 3,"api": "py_douban","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/pys/py_douban.py"},
-  
+ 
  {"key":"Zjdr","name":"🌐追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/zjdr.jar"},
  {"key":"APPTT","name":"📍图图(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/TT.jar"},
 {"key":"T4","name":"🍵T4聚合","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
- 
+ {"key": "csp_BBB" ,"name":"🐞bilibili","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://gitea.com/mai007/mtv/raw/branch/master/XP/Bili.json"},
  ## JS系列
 {"key": "drpy_js_360影视","name": "360影视[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/ly2853068942/CatVodSpiderJS/main/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/360影视.js"},
 {"key": "drpy_js_555影视","name": "555影视[DRPY]","type": 3,"api": "https://ghproxy.com/https://raw.githubusercontent.com/ly2853068942/CatVodSpiderJS/main/drpy.js","ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/555影视.js"},
