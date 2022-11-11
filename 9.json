@@ -1,11 +1,11 @@
 {
   "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;50312162df32af94104285e780c504fe",
   "wallpaper": "https://gao.chuqiuyu.tk",
-  "lives": [
+ "lives": [
     {
       "name": "直播",
       "type": 0,
-      "url": "https://jackson0829/jackson0829.github.io/TW.txt",
+      "url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     }
   ],
