@@ -4,7 +4,7 @@
 //"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/%E4%BF%AE%E5%A4%8DB%E7%AB%99.jar;md5;C5C337BB2793598E9AA5953898FBB087",
 "spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/1104.jar;md5;0B0EF0D93F6361333B36A28C6EC22757",
    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-             //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
+             //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2phY2tzb24wODI5L2phY2tzb24wODI5LmdpdGh1Yi5pby9tYWluL1RXLnR4dA=="]}]}],
 
    "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHMlM0EvL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vamFja3NvbjA4MjkvamFja3NvbjA4MjkuZ2l0aHViLmlvL21haW4vVFcudHh0"]}]}],
    "sites":[
