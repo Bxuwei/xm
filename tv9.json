@@ -4,8 +4,9 @@
 //"spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/%E4%BF%AE%E5%A4%8DB%E7%AB%99.jar;md5;C5C337BB2793598E9AA5953898FBB087",
 "spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/1104.jar;md5;0B0EF0D93F6361333B36A28C6EC22757",
    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-             "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
-
+             //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
+   
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9ieHV3ZWkuZ2l0aHViLmlvL3htL2xpdmUudHh0=="]}]}],
   "sites":[
  
  {"key":"APPTT","name":"📍图图(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/TT.jar"},
