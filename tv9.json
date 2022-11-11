@@ -5,9 +5,9 @@
 "spider":"https://gitee.com/maitao007/mao/raw/master/jarcf/1104.jar;md5;0B0EF0D93F6361333B36A28C6EC22757",
    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
              //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
-   
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2J4dXdlaS5naXRodWIuaW8veG0vbGl2ZS50eHQ="]}]}],
-  "sites":[
+
+   "lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHMlM0EvL2J4dXdlaS5naXRodWIuaW8veG0vbGl2ZS50eHQ="]}]}],
+   "sites":[
  
  {"key":"APPTT","name":"📍图图(SP)","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/TT.jar"},
 {"key":"T4","name":"🍵T4聚合","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod?sites=all&ali_token=7bb5b24ca3274ad781a6071082e9eebd&timeout=10","searchable":1,"quickSearch":1,"filterable":1},
